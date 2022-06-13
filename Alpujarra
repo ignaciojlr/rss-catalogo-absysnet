@@ -1,0 +1,3338 @@
+<?xml version="1.0" encoding='ISO-8859-1'?>
+<!-- generated with absysNET (http://www.baratz.es) -->
+<collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 a 4500</leader>
+  <controlfield tag="001" >C12700332c-1</controlfield>
+  <controlfield tag="005" >20180724:04550200</controlfield>
+  <controlfield tag="008" >960430s1993    sp sg            1      d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >2101 0000332</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >2101</subfield>
+  </datafield>
+  <datafield tag="080" ind1=" " ind2=" " >
+    <subfield code="a" >78(086.7)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="3" >
+    <subfield code="a" >El trovo en el Festival de Música Tradicional de La Alpujarra </subfield>
+    <subfield code="b" >: 1982-1991 [</subfield>
+    <subfield code="h" >Grabación sonora].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Montilla : </subfield>
+    <subfield code="b" >Fonoruz, </subfield>
+    <subfield code="c" >1993.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 casete : </subfield>
+    <subfield code="b" >estéreo ; </subfield>
+    <subfield code="c" >3,8 mm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >En cub.: Centro de Documentación Musical de Andalucía.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" " >
+    <subfield code="a" >Contiene: Cara A. I Festival: Grupo de Murtas ; III Festival: Grupo de Murtas ; IV Festival: Grupo de Albuñol - Grupo de Balanegra -- Cara B. VII Festival: Grupo de Santo Domingo ; IX Festival: Grupo de la Rambla del Banco</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2="4" >
+    <subfield code="a" >Poesía popular-</subfield>
+    <subfield code="z" >La Alpujarra.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" " >
+    <subfield code="a" >Centro de Documentación Musical de Andalucía.</subfield>
+  </datafield>
+  <datafield tag="856" ind1=" " ind2=" " >
+    <subfield code="u" >http://www.bibliotecavirtualdeandalucia.es/catalogo/consulta/registro.cmd?id=1038998</subfield>
+    <subfield code="z" >Copia digital Biblioteca Virtual de Andalucía</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 a 4500</leader>
+  <controlfield tag="001" >C14506931c-2</controlfield>
+  <controlfield tag="005" >20150609:10342900</controlfield>
+  <controlfield tag="007" >szobsuauummued</controlfield>
+  <controlfield tag="008" >951110s19931993sp sg            1      d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0006931</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >1. </subfield>
+    <subfield code="d" >1982.</subfield>
+    <subfield code="c" >Yegen)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >I Festival de Música Tradicional de la Alpujarra [</subfield>
+    <subfield code="h" >Video].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Granada : </subfield>
+    <subfield code="b" >CDOMA, </subfield>
+    <subfield code="c" >1993.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 videocasete (U-Matic) : son., col.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Colaboran:  Diputación Provincial de Granada ; Junta de Andalucía ; Asociación Cultural Abuxarra ; Municipios de la Alpujarra.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Disponible también en casetes (Cintas Betacam originales en Ing.)</subfield>
+  </datafield>
+  <datafield tag="530" ind1=" " ind2=" " >
+    <subfield code="a" >Disponible también en 1 disco blu-ray.</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Música tradicional</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Etnomusicología</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Alpujarra</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Festivales (Alpujarra)</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Master</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 a 4500</leader>
+  <controlfield tag="001" >C14506932c-X</controlfield>
+  <controlfield tag="005" >20150609:10353700</controlfield>
+  <controlfield tag="007" >szobsuauummued</controlfield>
+  <controlfield tag="008" >951110s19831983sp sg            1      d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0006932</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >2. </subfield>
+    <subfield code="d" >1983.</subfield>
+    <subfield code="c" >Murtas)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >II Festival de Música Tradicional de la Alpujarra [</subfield>
+    <subfield code="h" >Video].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Granada : </subfield>
+    <subfield code="b" >CDOMA, </subfield>
+    <subfield code="c" >1983.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >2 videocasetes (U-Matic) : son., col.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Colaboran: Diputación Provincial de Granada ; Junta de Andalucía ; Asociación Cultural Abuxarra ; Municipios de la Alpujarra.</subfield>
+  </datafield>
+  <datafield tag="530" ind1=" " ind2=" " >
+    <subfield code="a" >Disponible también en 1 disco blu-ray.</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Música tradicional</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Etnomusicología</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Alpujarra</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Festivales (Alpujarra)</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Master</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 a 4500</leader>
+  <controlfield tag="001" >C14506933c-7</controlfield>
+  <controlfield tag="005" >20150609:10360000</controlfield>
+  <controlfield tag="007" >szobsuauummued</controlfield>
+  <controlfield tag="008" >951110s19841984sp sg            1      d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0006933</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >3. </subfield>
+    <subfield code="d" >1984.</subfield>
+    <subfield code="c" >Ugijar)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >III Festival de Música Tradicional de la Alpujarra [</subfield>
+    <subfield code="h" >Video].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Granada : </subfield>
+    <subfield code="b" >Video-Al-Andalus, </subfield>
+    <subfield code="c" >[ca.1984]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >2 videocasetes (VHS) : son., col.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Colaboran: Diputación Provincial de Granada ; Junta de Andalucía ; Asociación Cultural Abuxarra ; Municipios de la Alpujarra.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Disponible también en casete.</subfield>
+  </datafield>
+  <datafield tag="530" ind1=" " ind2=" " >
+    <subfield code="a" >Disponible también en 1 disco blu-ray.</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Música tradicional</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Etnomusicología</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Alpujarra</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Festivales (Alpujarra)</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Master</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 a 4500</leader>
+  <controlfield tag="001" >C14506936c-9</controlfield>
+  <controlfield tag="005" >20150609:10362700</controlfield>
+  <controlfield tag="007" >szobsuauummued</controlfield>
+  <controlfield tag="008" >951110s19931993sp sg            1      d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0006936</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >4. </subfield>
+    <subfield code="d" >1985.</subfield>
+    <subfield code="c" >Orgiva)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >IV Festival de Música Tradicional de la Alpujarra [</subfield>
+    <subfield code="h" >Video].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Granada : </subfield>
+    <subfield code="b" >CDOMA, </subfield>
+    <subfield code="c" >1993.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >5 videocasetes (U-Matic) : son., col.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Colaboran: Diputación Provincial de Granada ; Junta de Andalucía ; Asociación Cultural Abuxarra ; Municipios de la Alpujarra.</subfield>
+  </datafield>
+  <datafield tag="530" ind1=" " ind2=" " >
+    <subfield code="a" >Disponible también en 1 disco blu-ray.</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Música tradicional</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Etnomusicología</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Alpujarra</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Festivales (Alpujarra)</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Master</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 a 4500</leader>
+  <controlfield tag="001" >C14506947c-2</controlfield>
+  <controlfield tag="005" >20211020:13373000</controlfield>
+  <controlfield tag="007" >ssobsuauummued</controlfield>
+  <controlfield tag="008" >951113s19861986sp sg            1      d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0006947</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >5. </subfield>
+    <subfield code="d" >1986.</subfield>
+    <subfield code="c" >Albuñol)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >V Festival de Música Tradicional de la Alpujarra[Video].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Granada : </subfield>
+    <subfield code="b" >CDOMA, </subfield>
+    <subfield code="c" >1993.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >8 videocasetes (U-Matic) : son., col.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Colaboran: Diputación Provincial de Granada ; Junta de Andalucía ; Asociación Cultural Abuxarra ; Municipios de la Alpujarra.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Disponible también en video VHS y carrete de cinta magnetofónica.</subfield>
+  </datafield>
+  <datafield tag="530" ind1=" " ind2=" " >
+    <subfield code="a" >Disponible también en 1 disco blu-ray.</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Música tradicional</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Etnomusicología</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Alpujarra</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Festivales (Alpujarra)</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Master</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 a 4500</leader>
+  <controlfield tag="001" >C14506957c-9</controlfield>
+  <controlfield tag="007" >ssobsuauummued</controlfield>
+  <controlfield tag="008" >951113s19871987sp sg            1      d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0006957</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >6. </subfield>
+    <subfield code="d" >1987.</subfield>
+    <subfield code="c" >Laujar)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >VI Festival de Música Tradicional de la Alpujarra [</subfield>
+    <subfield code="h" >Video].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Granada : </subfield>
+    <subfield code="b" >CDOMA, </subfield>
+    <subfield code="c" >1993.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >7 videocasetes (U-Matic) : son., col.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Colaboran: Diputación Provincial de Granada, Junta de Andalucía ; Asociación Cultural Abuxarra ; Municipios de la Alpujarra.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Disponible también en carrete de cinta magnetofónica y video VHS.</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Música tradicional</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Etnomusicología</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Alpujarra</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Festivales (Alpujarra)</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Master</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 a 4500</leader>
+  <controlfield tag="001" >C14506962c-9</controlfield>
+  <controlfield tag="005" >20150609:10385800</controlfield>
+  <controlfield tag="007" >ssobsuauummued</controlfield>
+  <controlfield tag="008" >951113s19881988sp sg            1      d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0006962</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >7. </subfield>
+    <subfield code="d" >1988.</subfield>
+    <subfield code="c" >Cádiar)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >VII Festival de Música Tradicional de la Alpujarra [</subfield>
+    <subfield code="h" >Video].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Granada : </subfield>
+    <subfield code="b" >CDOMA, </subfield>
+    <subfield code="c" >1993.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >9 videocasetes (U-Matic) : son., col.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Colaboran: Diputación Provincial de Granada ; Junta de Andalucía ; Asociación Cultural Abuxarra ; Municipios de la Alpujarra.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Disponible también en casetes sonoros.</subfield>
+  </datafield>
+  <datafield tag="530" ind1=" " ind2=" " >
+    <subfield code="a" >Disponible también en 1 disco blu-ray.</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Música tradicional</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Etnomusicología</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Alpujarra</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Festivales (Alpujarra)</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Master</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 a 4500</leader>
+  <controlfield tag="001" >C14506965c-0</controlfield>
+  <controlfield tag="005" >20150609:10322700</controlfield>
+  <controlfield tag="007" >ssobsuauummued</controlfield>
+  <controlfield tag="008" >951113s19931989sp sg            1      d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0006965</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >8. </subfield>
+    <subfield code="d" >1989.</subfield>
+    <subfield code="c" >Berja)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >VIII Festival de Música Tradicional de la Alpujarra [</subfield>
+    <subfield code="h" >Video].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Granada : </subfield>
+    <subfield code="b" >CDOMA, </subfield>
+    <subfield code="c" >1993.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >8 videocasetes (U-Matic) : son., col.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Colaboran: Diputación Provincial de Granada ; Junta de Andalucía ; Asociación Cultural Abuxarra ; Municipios de la Alpujarra.</subfield>
+  </datafield>
+  <datafield tag="530" ind1=" " ind2=" " >
+    <subfield code="a" >Disponible también en casete sonoro.</subfield>
+  </datafield>
+  <datafield tag="530" ind1=" " ind2=" " >
+    <subfield code="a" >Disponible también en 1 disco blu-ray.</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Música tradicional</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Etnomusicología</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Alpujarra</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Festivales (Alpujarra)</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Master</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 a 4500</leader>
+  <controlfield tag="001" >C14506968c-2</controlfield>
+  <controlfield tag="005" >20150609:10431500</controlfield>
+  <controlfield tag="007" >ssobsuauummued</controlfield>
+  <controlfield tag="008" >95111319901990 sp sg            1      d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0006968</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >9. </subfield>
+    <subfield code="d" >1990.</subfield>
+    <subfield code="c" >Valor)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >IX Festival de Música Tradicional de la Alpujarra [</subfield>
+    <subfield code="h" >Video].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Granada : </subfield>
+    <subfield code="b" >CDOMA, </subfield>
+    <subfield code="c" >1993.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >8 videocasetes (U-Matic) : son., col.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Colaboran: Diputación Provincial de Granada ; Junta de Andalucía ; Asociación Cultural Abuxxarra ; Municipios de la Alpujarra.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Disponible también en casete sonoro.</subfield>
+  </datafield>
+  <datafield tag="530" ind1=" " ind2=" " >
+    <subfield code="a" >Disponible también en 1 disco blu-ray.</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Música tradicional</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Etnomusicología</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Alpujarra</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Festivales (Alpujarra)</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Master</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 a 4500</leader>
+  <controlfield tag="001" >C14506973c-2</controlfield>
+  <controlfield tag="005" >20211021:12215500</controlfield>
+  <controlfield tag="007" >ssobsuauummued</controlfield>
+  <controlfield tag="008" >951113s19921991sp sg            1      d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0006973</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >10. </subfield>
+    <subfield code="d" >1991.</subfield>
+    <subfield code="c" >Laroles)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >X Festival de Música Tradicional de la Alpujarra [</subfield>
+    <subfield code="h" >Grabación sonora].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Madrid : </subfield>
+    <subfield code="b" >Ghetto vox comunicacion, </subfield>
+    <subfield code="c" >1992.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 casete sonoro (ca. 60 min.) : estereo.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Colaboran: Diputación Provincial de Granada ; Junta de Andalucía ; Asociación Cultural Abuxarra ; Municipios de la Alpujarra.</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Música tradicional</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Etnomusicología</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Alpujarra</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Festivales (Alpujarra)</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Master</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 a 4500</leader>
+  <controlfield tag="001" >C14506976c-4</controlfield>
+  <controlfield tag="007" >ssobsuauummued</controlfield>
+  <controlfield tag="008" >951113s19921992sp sg            1      d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0006976</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >11. </subfield>
+    <subfield code="d" >1992.</subfield>
+    <subfield code="c" >Adra)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >XI Festival de Música Tradicional de la Alpujarra [</subfield>
+    <subfield code="h" >Video].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Granada : </subfield>
+    <subfield code="b" >CDOMA, </subfield>
+    <subfield code="c" >1993.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >9 videocasetes (U-Matic) : son., col.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Colaboran: Diputación Provincial de Granada ; Junta de Andalucía ; Asociación Cultural Abuxarra ; Municipios de la Alpujarra.</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Música tradicional</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Etnomusicología</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Alpujarra</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Festivales (Alpujarra)</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Master</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 a 4500</leader>
+  <controlfield tag="001" >C14506977c-1</controlfield>
+  <controlfield tag="005" >20150610:12190900</controlfield>
+  <controlfield tag="007" >ssobsuauummued</controlfield>
+  <controlfield tag="008" >951114s19931993sp sg            1      d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0006977</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >12. </subfield>
+    <subfield code="d" >1993.</subfield>
+    <subfield code="c" >Dalías)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >XII Festival de Música Tradicional de la Alpujarra [</subfield>
+    <subfield code="h" >Video].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Granada : </subfield>
+    <subfield code="b" >CDOMA, </subfield>
+    <subfield code="c" >1993.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 videocasete (VHS) : son., col.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Colaboran : Diputación Provincial de Granada ; Junta de Andalucía ; Asociación Cultural Abuxarra ; Municipios de la Alpujarra.</subfield>
+  </datafield>
+  <datafield tag="530" ind1=" " ind2=" " >
+    <subfield code="a" >Disponible también en 1 disco blu-ray.</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Música tradicional</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Etnomusicología</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Alpujarra</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Festivales (Alpujarra)</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Master</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 a 4500</leader>
+  <controlfield tag="001" >C14507284c-2</controlfield>
+  <controlfield tag="005" >20211021:12371500</controlfield>
+  <controlfield tag="007" >ssobsuauummued</controlfield>
+  <controlfield tag="008" >951214s19921992sp sg            1      d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0007284</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0" >
+    <subfield code="a" >IV Festival de Órgiva 1985 ; V Festival de Albuñol 1986 [</subfield>
+    <subfield code="h" >Grabación sonora] </subfield>
+    <subfield code="b" >: [recopilación].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >[Granada : </subfield>
+    <subfield code="b" >CDMA, </subfield>
+    <subfield code="c" >1992]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 casete sonoro (60 min. c/u.) : </subfield>
+    <subfield code="b" >estereo ; </subfield>
+    <subfield code="c" >12 cm.</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" " >
+    <subfield code="a" >[Festivales de música tradicional de la Alpujarra ; </subfield>
+    <subfield code="v" >1]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Remitida por José Criado.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Máster y copia.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" " >
+    <subfield code="a" >Contiene: Cara A: Grupo de Albuñol: Poema de José Fernández Sánchez, Trovo de Antonio Antequera y Antonio &quot;de las Joyas&quot;, Coplas viejas, Poemas de Epifanio Lupión -- Cara B: Grupo de Trovo de Guardias Viejas: &quot;Candiota&quot; y Sevilla (incompleto)</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Música tradicional</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Etnomusicología</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Alpujarra</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Festivales (Alpujarra)</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Master</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 a 4500</leader>
+  <controlfield tag="001" >C14514295c-6</controlfield>
+  <controlfield tag="005" >20211026:09145600</controlfield>
+  <controlfield tag="007" >ssobsuauummued</controlfield>
+  <controlfield tag="008" >951113s19881988sp sg            1      d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0006962</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >7. </subfield>
+    <subfield code="d" >1988.</subfield>
+    <subfield code="c" >Cádiar)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >VII Festival de Música Tradicional de la Alpujarra </subfield>
+    <subfield code="b" >: Cadiar 1988.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Granada : </subfield>
+    <subfield code="b" >CDOMA, </subfield>
+    <subfield code="c" >1993.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >9 videocasetes (U-Matic) : son., col.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Colaboran: Diputación Provincial de Granada ; Junta de Andalucía ; Asociación Cultural Abuxarra ; Municipios de la Alpujarra.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Disponible también en casetes sonoros.</subfield>
+  </datafield>
+  <datafield tag="530" ind1=" " ind2=" " >
+    <subfield code="a" >Disponible también en 1 disco blu-ray.</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Música tradicional</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Etnomusicología</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Alpujarra</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Festivales (Alpujarra)</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Master</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 a 4500</leader>
+  <controlfield tag="001" >C14514296c-3</controlfield>
+  <controlfield tag="005" >20211026:09170400</controlfield>
+  <controlfield tag="007" >ssobsuauummued</controlfield>
+  <controlfield tag="008" >951113s19931989sp sg            1      d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0006965</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >8. </subfield>
+    <subfield code="d" >1989.</subfield>
+    <subfield code="c" >Berja)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >VIII Festival de Música Tradicional de la Alpujarra [</subfield>
+    <subfield code="h" >Video].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Granada : </subfield>
+    <subfield code="b" >CDOMA, </subfield>
+    <subfield code="c" >1993.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >8 videocasetes (U-Matic) : son., col.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Colaboran: Diputación Provincial de Granada ; Junta de Andalucía ; Asociación Cultural Abuxarra ; Municipios de la Alpujarra.</subfield>
+  </datafield>
+  <datafield tag="530" ind1=" " ind2=" " >
+    <subfield code="a" >Disponible también en casete sonoro.</subfield>
+  </datafield>
+  <datafield tag="530" ind1=" " ind2=" " >
+    <subfield code="a" >Disponible también en 1 disco blu-ray.</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Música tradicional</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Etnomusicología</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Alpujarra</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Festivales (Alpujarra)</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Master</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 a 4500</leader>
+  <controlfield tag="001" >C14514301c-5</controlfield>
+  <controlfield tag="005" >20211026:09191900</controlfield>
+  <controlfield tag="007" >ssobsuauummued</controlfield>
+  <controlfield tag="008" >951113s19921992sp sg            1  spa d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0006976</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >11. </subfield>
+    <subfield code="d" >1992.</subfield>
+    <subfield code="c" >Adra)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >XI Festival de Música Tradicional de la Alpujarra [</subfield>
+    <subfield code="h" >Vídeo].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Granada : </subfield>
+    <subfield code="b" >CDOMA, </subfield>
+    <subfield code="c" >1993.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >9 videocasetes (U-Matic) : son., col.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Colaboran: Diputación Provincial de Granada ; Junta de Andalucía ; Asociación Cultural Abuxarra ; Municipios de la Alpujarra.</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Música tradicional</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Etnomusicología</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Alpujarra</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Festivales (Alpujarra)</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Master</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000   4500</leader>
+  <controlfield tag="001" >C14514303c-X</controlfield>
+  <controlfield tag="005" >20211112:09573400</controlfield>
+  <controlfield tag="008" >961205s1996    sp              0    d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0014303</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >14. </subfield>
+    <subfield code="d" >1995.</subfield>
+    <subfield code="c" >El Ejido)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >XIV Festival de Música Tradicional de la Alpujarra </subfield>
+    <subfield code="b" >: El Ejido, 1995.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Granada : </subfield>
+    <subfield code="b" >Diputacion Degranada/Diputacion De Almeria/Juanta De Andalucia Y Ayuntamiento De La Alpujarra, </subfield>
+    <subfield code="c" >D.L. 1996.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 vol. ; </subfield>
+    <subfield code="c" >11 cm.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Folklore-</subfield>
+    <subfield code="z" >Andalucía.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Festivales musicales.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Música popular-</subfield>
+    <subfield code="z" >Alpujarra.</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 i 4500</leader>
+  <controlfield tag="001" >C14517954c-5</controlfield>
+  <controlfield tag="005" >20211103:13070500</controlfield>
+  <controlfield tag="007" >ssolsnannnpnne</controlfield>
+  <controlfield tag="008" >200910c1984    sp fm|         | 1  spa |</controlfield>
+  <datafield tag="017" ind1=" " ind2=" " >
+    <subfield code="a" >B 21372-1984</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >1. </subfield>
+    <subfield code="d" >1982.</subfield>
+    <subfield code="c" >Yegen)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >I Festival de Música Tradicional de Cuerda de las Alpujarras </subfield>
+    <subfield code="b" >: Yegen, 3 de enero de 1982.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Barcelona : </subfield>
+    <subfield code="b" >Yoko Imperial, </subfield>
+    <subfield code="c" >1984.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 casete : </subfield>
+    <subfield code="b" >estéreo.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" " >
+    <subfield code="a" >Contiene: Cara A: Trovos alpujarreños (Murtas) ; a mi primer amor (Sorvilán) ; Pino verde (Berchules) ; Pasacalles (Yegen) ; Mazurca &quot;La zurda&quot; ( Bubión) ; El despierto de la aurora (Ugijar) -- Cara B: Pasodoble (Valor) ; Vive la banda (Trevelez) ; mazurca &quot;La Antigua&quot; (Capileira) ; Arborada (Lanjarón) ; Fandango &quot;Robao&quot; (Berja) ; Mazurca &quot;La granaina&quot; (Laroles) ; El Chato del Albaycín (Notaez) ; Las ánimas (Cadiar) ; Tanguillo (Mairena)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Música tradicional.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="2" ind2="4" >
+    <subfield code="a" >Folklore.</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000   4500</leader>
+  <controlfield tag="001" >C14517955c-2</controlfield>
+  <controlfield tag="005" >20211103:12410800</controlfield>
+  <controlfield tag="008" >961205s1900    sp              0    d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0017955</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >1. </subfield>
+    <subfield code="d" >1982.</subfield>
+    <subfield code="c" >Yegen)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >I Festival de Música de la Alpujarra, Yehen (1982).</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Barcelona : </subfield>
+    <subfield code="b" >Yoko Imperial, 1984.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 casete ; </subfield>
+    <subfield code="c" >10 cm.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Folklore-</subfield>
+    <subfield code="z" >Andalucía.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Festivales musicales.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Música popular-</subfield>
+    <subfield code="z" >Alpujarra.</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000   4500</leader>
+  <controlfield tag="001" >C14517957c-7</controlfield>
+  <controlfield tag="005" >20211103:12381500</controlfield>
+  <controlfield tag="008" >961205s1900    sp              0    d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0017957</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >2. </subfield>
+    <subfield code="d" >1983.</subfield>
+    <subfield code="c" >Murtas)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >II Festival de Música de la Alpujarra, Murtas (1983).</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Barcelona : </subfield>
+    <subfield code="b" >Yoko Imperial, 1984.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 casete. ; </subfield>
+    <subfield code="c" >10 cm.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Folklore-</subfield>
+    <subfield code="z" >Andalucía.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Festivales musicales.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Música popular-</subfield>
+    <subfield code="z" >Alpujarra.</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000   4500</leader>
+  <controlfield tag="001" >C14517958c-4</controlfield>
+  <controlfield tag="005" >20211103:12550800</controlfield>
+  <controlfield tag="008" >961205s1900    sp              0    d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0017957</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >2. </subfield>
+    <subfield code="d" >1983.</subfield>
+    <subfield code="c" >Murtas)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >II Festival de Música de la Alpujarra, Murtas (1983).</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Barcelona : </subfield>
+    <subfield code="b" >Yoko Imperial, 1984.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 casete. ; </subfield>
+    <subfield code="c" >10 cm.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Folklore-</subfield>
+    <subfield code="z" >Andalucía.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Festivales musicales.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Música popular-</subfield>
+    <subfield code="z" >Alpujarra.</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000   4500</leader>
+  <controlfield tag="001" >C14517959c-1</controlfield>
+  <controlfield tag="005" >20211108:12172800</controlfield>
+  <controlfield tag="008" >961205s1900    sp              0    d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0017957</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >2. </subfield>
+    <subfield code="d" >1983.</subfield>
+    <subfield code="c" >Murtas)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >II Festival de Música de la Alpujarra, Murtas (1983).</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Barcelona : </subfield>
+    <subfield code="b" >Yoko Imperial, 1984.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 casete. ; </subfield>
+    <subfield code="c" >10 cm.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Folklore-</subfield>
+    <subfield code="z" >Andalucía.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Festivales musicales.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Música popular-</subfield>
+    <subfield code="z" >Alpujarra.</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm a2200000   4500</leader>
+  <controlfield tag="001" >C14517960c-2</controlfield>
+  <controlfield tag="005" >20211103:12584000</controlfield>
+  <controlfield tag="007" >ss lsnolcmpnuu</controlfield>
+  <controlfield tag="008" >030212s1985    sp fm            1  spa</controlfield>
+  <datafield tag="017" ind1=" " ind2=" " >
+    <subfield code="a" >B 28769-1985 </subfield>
+    <subfield code="b" >Oficina Depósito Legal Barcelona</subfield>
+  </datafield>
+  <datafield tag="028" ind1="0" ind2="0" >
+    <subfield code="a" >Open Records: OCS 1046</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >3. </subfield>
+    <subfield code="d" >1984.</subfield>
+    <subfield code="c" >Ugijar)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >III Festival de Música Tradicional de La Alpujarra [</subfield>
+    <subfield code="h" >Grabación sonora] / </subfield>
+    <subfield code="c" >todos los temas son populares.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Barcelona : </subfield>
+    <subfield code="b" >editado por Open Records, </subfield>
+    <subfield code="c" >D.L. 1985.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 casete : </subfield>
+    <subfield code="b" >estéreo.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" " >
+    <subfield code="a" >Trovos : Albuñol ; Comparsa de carnaval : El Ejido ; Canto de mecedres : Ugijar ; Bolero : Dalias ; Canto de muleros : Albondón ; Pasacalles : Yator ; Himno de San Blás : Cadiar ; Hª de J.Mª el Tempranillo : Valor ; Fandango : Laroles ; Rumba Rosita : Yegen ; El Parral : Laujar Andarax ; Mulazas del Río : Orgiva ; Fiesta de Los Doblones : Berja ; Sevillanas de La Alpujarra : Berja ; Balanegra ; Trovo cantado : Murtas</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7" >
+    <subfield code="a" >Folklore-</subfield>
+    <subfield code="z" >Andalucía.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Festivales musicales.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Música popular-</subfield>
+    <subfield code="z" >Alpujarra.</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 i 4500</leader>
+  <controlfield tag="001" >C14517961c-X</controlfield>
+  <controlfield tag="005" >20211103:13001000</controlfield>
+  <controlfield tag="007" >ssolsnannnpnne</controlfield>
+  <controlfield tag="008" >200910c1985    sp fm|         | 1  spa |</controlfield>
+  <datafield tag="017" ind1=" " ind2=" " >
+    <subfield code="a" >B 28769-1985</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >3. </subfield>
+    <subfield code="d" >1984.</subfield>
+    <subfield code="c" >Ugijar)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >III Festival de Música Tradicional de la Alpujarra </subfield>
+    <subfield code="b" >:  Ugijar&#39;84.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Barcelona : </subfield>
+    <subfield code="b" >Open Records, </subfield>
+    <subfield code="c" >1985.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 casete : </subfield>
+    <subfield code="b" >estéreo.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" " >
+    <subfield code="a" >Contiene: Cara A: Trovos (albuñol) ; Comparsa de carnaval (El ejido) ; Canto de Mecedres (Ugijar) ; Bolero (Dalías) ; Canto de Muleros (Albondón) ; Pasacalles (Yator) ; Himno de San Blas (Cadiar) ; Historia de Jose María &quot;El Tempranillo&quot; (Valor) .. Cara B: Fandango (Laroles) ; Rumba Rosita (Yegen) ; El parral (Laujar Andarax) ; Mulazas del río (Adra) ; Mazurca antigua (Orgiva) ; Fiesta de los doblones: ole. Sevillanas de la Alpujarra (Balanegra) ; Trovo cantado (Murtas)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Música tradicional.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="2" ind2="4" >
+    <subfield code="a" >Folklore.</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm a2200000   4500</leader>
+  <controlfield tag="001" >C14517997c-2</controlfield>
+  <controlfield tag="005" >20211103:13030500</controlfield>
+  <controlfield tag="007" >ss lsnolcmpnuu</controlfield>
+  <controlfield tag="008" >011102s1986    sp fm            1  spa</controlfield>
+  <datafield tag="017" ind1=" " ind2=" " >
+    <subfield code="a" >B 26456-1986 </subfield>
+    <subfield code="b" >Oficina Depósito Legal Barcelona</subfield>
+  </datafield>
+  <datafield tag="028" ind1="0" ind2="0" >
+    <subfield code="a" >Open Records: OCS 1080</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >4. </subfield>
+    <subfield code="d" >1985.</subfield>
+    <subfield code="c" >Orgiva)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >IV Festival de Música Tradicional de la Alpujarra [</subfield>
+    <subfield code="h" >Grabación sonora] / </subfield>
+    <subfield code="c" >todos los temas son populares.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Barcelona : </subfield>
+    <subfield code="b" >editado por Open Records, </subfield>
+    <subfield code="c" >D.L. 1986.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 casete : </subfield>
+    <subfield code="b" >estéreo.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" " >
+    <subfield code="a" >Laujar : canciones de Maceores ; Valor : pasodoble de Mecina Alfahar ; Sorvilan : serenata de amores ; Orgiva : robao ; Mairena : mazurca Angelina ; El Egido : trovo y baile robao ; Berja : bolero de Berja ; Yegen : pasacalles carnavalito</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7" >
+    <subfield code="a" >Folklore-</subfield>
+    <subfield code="z" >Andalucía.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Festivales musicales.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Música popular-</subfield>
+    <subfield code="z" >Alpujarra.</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 i 4500</leader>
+  <controlfield tag="001" >C14517998c-X</controlfield>
+  <controlfield tag="005" >20211103:13035200</controlfield>
+  <controlfield tag="007" >ssolsnannnpnne</controlfield>
+  <controlfield tag="008" >200910c1986    sp fm|         | 1  spa |</controlfield>
+  <datafield tag="017" ind1=" " ind2=" " >
+    <subfield code="a" >B 26456-1986</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >4. </subfield>
+    <subfield code="d" >1985.</subfield>
+    <subfield code="c" >Orgiva)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >IV Festival de Música Tradicional de la Alpujarra </subfield>
+    <subfield code="b" >:  Orgiva&#39;85.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Barcelona : </subfield>
+    <subfield code="b" >Open Records, </subfield>
+    <subfield code="c" >1986.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 casete : </subfield>
+    <subfield code="b" >estéreo.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" " >
+    <subfield code="a" >Contiene: Cara A: Canciones de meceores ( Laujar) ; Pasodoble de Mecina Alfahar (Valor) ; Serenata de amores (Sorvilán) ; Robao ( Orgiva) ; Mazurca Angelina (Mairena) -- Cara B: Trovo y baile robao ( El Ejido) ; Bolero de Berja ( Berja) ; Pasacalles carnavalito (Yegen)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Música tradicional.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="2" ind2="4" >
+    <subfield code="a" >Folklore.</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm a2200000   4500</leader>
+  <controlfield tag="001" >C14519770c-7</controlfield>
+  <controlfield tag="005" >20211103:13122900</controlfield>
+  <controlfield tag="007" >ss lsnolcmpnuu</controlfield>
+  <controlfield tag="008" >011218s1995    sp fm            1  spa</controlfield>
+  <datafield tag="017" ind1=" " ind2=" " >
+    <subfield code="a" >GR 128-1995 </subfield>
+    <subfield code="b" >Oficina Depósito Legal Granada</subfield>
+  </datafield>
+  <datafield tag="028" ind1="0" ind2="0" >
+    <subfield code="a" >BBG: 9528-MC</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >(OCoLC)436672177</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >13. </subfield>
+    <subfield code="d" >1994.</subfield>
+    <subfield code="c" >Lanjarón)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >XIII Festival de Música Tradicional de La Alpujarra [</subfield>
+    <subfield code="h" >Grabación sonora] / </subfield>
+    <subfield code="c" >canciones populares de la comarca.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >[Granada? : </subfield>
+    <subfield code="b" >s.n.], </subfield>
+    <subfield code="c" >D.L. 1995.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 casete : </subfield>
+    <subfield code="b" >estéreo.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" " >
+    <subfield code="a" >Animas / int., Laim-Harum. Roao / int., Grupo Infantil Orgiva. La emigración / int., Aben-humeya. Fandango / int., Los Vergeles. Despertar del rocío de la aurora / int., Talama. Cante mulero / int., Grupo de baile &quot;Vicar&quot;. El cura y la molinera / int., El Axuar. Cerco lleva la luna / int., Al-Cadi. Mudanzas / int., Barranco Almerín. Mazurca en mí menor / int., Los Laureles</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="7" >
+    <subfield code="a" >Folklore-</subfield>
+    <subfield code="z" >Andalucía.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Festivales musicales.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Música popular-</subfield>
+    <subfield code="z" >Alpujarra.</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000   4500</leader>
+  <controlfield tag="001" >C14520307c-4</controlfield>
+  <controlfield tag="005" >20150610:12141500</controlfield>
+  <controlfield tag="008" >961205s1995    sp              0    d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0020307</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >14. </subfield>
+    <subfield code="d" >1995.</subfield>
+    <subfield code="c" >El Ejido)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0" >
+    <subfield code="a" >XIV festival de musica tradicional de la Alpujarra El Ejido </subfield>
+    <subfield code="b" >: (Guardias Viejas) 13 de agosto 1995.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Granada : </subfield>
+    <subfield code="b" >Diputacion De Granada ; Diputacion De Almeria ; Juant De Andalucia, </subfield>
+    <subfield code="c" >1995.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >6 vol. ; </subfield>
+    <subfield code="c" >20 cm.</subfield>
+  </datafield>
+  <datafield tag="530" ind1=" " ind2=" " >
+    <subfield code="a" >Disponible también en 1 disco blu-ray.</subfield>
+  </datafield>
+  <datafield tag="653" ind1=" " ind2=" " >
+    <subfield code="a" >Musica tradicional</subfield>
+  </datafield>
+  <datafield tag="653" ind1=" " ind2=" " >
+    <subfield code="a" >Alpujarra</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 a 4500</leader>
+  <controlfield tag="001" >C14534289c-6</controlfield>
+  <controlfield tag="007" >sdobsuauummued</controlfield>
+  <controlfield tag="008" >980203s        sp sg            1      d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0034289</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0" >
+    <subfield code="a" >XV Festival de música tradicional de la Alpujarra </subfield>
+    <subfield code="b" >[Grabación sonora].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Otura (Granada) : </subfield>
+    <subfield code="b" >Ruido Rosa, </subfield>
+    <subfield code="c" >[1.996]</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 a 4500</leader>
+  <controlfield tag="001" >C14535279c-4</controlfield>
+  <controlfield tag="005" >20160330:12253100</controlfield>
+  <controlfield tag="007" >ssoisnanunmnnz</controlfield>
+  <controlfield tag="008" >980928c1997    sp fm          o 0  esp d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0035279</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >16. </subfield>
+    <subfield code="d" >1997.</subfield>
+    <subfield code="c" >Fondón)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >XVI Festival de Música Tradicional de la Alpujarra [</subfield>
+    <subfield code="h" >Grabación sonora].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Otura (Granada) : </subfield>
+    <subfield code="b" >Ruido Rosa, </subfield>
+    <subfield code="c" >[1997]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 casete : </subfield>
+    <subfield code="b" >estereo ; </subfield>
+    <subfield code="c" >17 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Fondón, 10 de agosto de 1997.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Música tradicional-</subfield>
+    <subfield code="z" >La Alpujarra (Comarca)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="0" >
+    <subfield code="a" >Folklore-</subfield>
+    <subfield code="z" >Alpujarra-</subfield>
+    <subfield code="v" >Grabaciones sonoras.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" " >
+    <subfield code="a" >Festivales musicales-</subfield>
+    <subfield code="z" >Fondón (Granada)</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 a 4500</leader>
+  <controlfield tag="001" >C14536396c-5</controlfield>
+  <controlfield tag="005" >20200909:03265500</controlfield>
+  <controlfield tag="007" >scrbsnnncbmned</controlfield>
+  <controlfield tag="008" >990527c1996    sp co            1  esp d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0036396</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival Internacional de Música y Danza (</subfield>
+    <subfield code="n" >45º. </subfield>
+    <subfield code="d" >1996.</subfield>
+    <subfield code="c" >Granada)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="3" >
+    <subfield code="a" >El mundo guitarrístico de Manuel de Falla [Grabación sonora] /</subfield>
+    <subfield code="c" >45 Festival Internacional de Música y Danza de Granada.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >[S.l. : </subfield>
+    <subfield code="b" >s.n.], </subfield>
+    <subfield code="c" >1996.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 DAT (2 h.2 min.) : </subfield>
+    <subfield code="b" >estéreo.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Patio de Los Arrayanes, Alhambra, 24 de junio de  1996.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Grabado por el Centro de Documentación Musical de Andalucía.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" " >
+    <subfield code="a" >Contiene: Cuatro piezas : Pregón de las flores, Zacatín, Villancico granadino, sin estrella y sin cielo ; Arroyos de La Alhambra ; Cuatro piezas : chiquita y bonita, Navidad en La Alpujarra, Nostalgia de Petenera, tango zapateado ; Tres piezas : Eloísa, Viejo Romance, De Cádiz a la Habana / Angel Barrios. Fandanguillo, op. 36 / Joaquín Turina. Homenaje (Le Tombeau de Debussy) / Manuel de Falla. 6 Canciones catalanas / Miguel Llobet. Chacona (de la Partita núm. 2 en Re menor para violín solo) / Johann Sebastian Bach, transc. A. Segovia</subfield>
+  </datafield>
+  <datafield tag="511" ind1="1" ind2=" " >
+    <subfield code="a" >Gabriel Estarellas, guitarra.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" " >
+    <subfield code="a" >Barrios, Angel. </subfield>
+    <subfield code="t" >Cuatro piezas.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" " >
+    <subfield code="a" >Barrios, Angel. </subfield>
+    <subfield code="t" >Arroyos de La Alhambra.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" " >
+    <subfield code="a" >Barrios, Angel. </subfield>
+    <subfield code="t" >Tres piezas.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" " >
+    <subfield code="a" >Turina, Joaquín (</subfield>
+    <subfield code="d" >1882-1949). </subfield>
+    <subfield code="t" >Fandanguillo.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" " >
+    <subfield code="a" >Falla, Manuel de (</subfield>
+    <subfield code="d" >1876-1946). </subfield>
+    <subfield code="t" >Homenaje (Le Tombeau de Debussy)</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" " >
+    <subfield code="a" >Llobet, Miguel (</subfield>
+    <subfield code="d" >1878-1938). </subfield>
+    <subfield code="t" >6 Canciones catalanas.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" " >
+    <subfield code="a" >Bach, Johann Sebastian (</subfield>
+    <subfield code="d" >1685-1750)</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" " >
+    <subfield code="a" >Estarellas, Gabriel, </subfield>
+    <subfield code="e" >guitarra.</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 i 4500</leader>
+  <controlfield tag="001" >C14540021c-4</controlfield>
+  <controlfield tag="005" >20160330:11210700</controlfield>
+  <controlfield tag="007" >ssolsnannnpnne</controlfield>
+  <controlfield tag="008" >020207c2000    sp fm            1  spa j</controlfield>
+  <datafield tag="017" ind1=" " ind2=" " >
+    <subfield code="a" >GR 993 2000</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0040021</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de música tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >18. </subfield>
+    <subfield code="d" >1999.</subfield>
+    <subfield code="c" >Paterna del Río, Almería)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >XVIII Festival de música tradicional de la Alpujarra de Paterna del Rio [</subfield>
+    <subfield code="h" >Grabación sonora] </subfield>
+    <subfield code="b" >: 8 de agosto.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Granada : </subfield>
+    <subfield code="b" >BBG, </subfield>
+    <subfield code="c" >2000.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 casete : </subfield>
+    <subfield code="b" >estéreo.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" " >
+    <subfield code="a" >Contiene: Cara A: Barranco Gurrias de Adra. Grupo de Trovo de la Rábita. Cante mulero de Murtas. Alqueria Viva de Adra. Escuela de Órgiva Torvizcón. Villa del Rio. Al-Cadí de Cádiar. Cara B: Los laureles de Laroles. Trovo de Guardias Viejas. Rondalla de Ugíjar. El Auxar de Laujar de Andarax. Agrupación de Pampaneira.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Música tradicional-</subfield>
+    <subfield code="z" >La Alpujarra (Comarca)</subfield>
+  </datafield>
+  <datafield tag="650" ind1="2" ind2="4" >
+    <subfield code="a" >Folklore-</subfield>
+    <subfield code="z" >Alpujarra-</subfield>
+    <subfield code="v" >Grabaciones sonoras.</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 i 4500</leader>
+  <controlfield tag="001" >C14540069c-8</controlfield>
+  <controlfield tag="007" >svobsnbnnnmnec</controlfield>
+  <controlfield tag="008" >020214c2001    sp fm            1  spa j</controlfield>
+  <datafield tag="017" ind1=" " ind2=" " >
+    <subfield code="a" >CO 1358 2001</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0040069</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >20. </subfield>
+    <subfield code="d" >2001.</subfield>
+    <subfield code="c" >Albondón)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >Albondón [</subfield>
+    <subfield code="h" >Grabación sonora] / </subfield>
+    <subfield code="c" >XX Festival de Música Tradicional de la Alpujarra.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Montilla (Córdoba) : </subfield>
+    <subfield code="b" >Fonoruz, </subfield>
+    <subfield code="c" >2001.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 disco (CD-DA) ; </subfield>
+    <subfield code="c" >12 cm.</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" " >
+    <subfield code="a" >Contiene: Grupo infantil El Auxar (Laujar de Andarax). Cante Mulero de Murtas. Antonio Heredia y Nicolás López (Albondón). Barranco Gurrías (Adra). Trovo de Guardias Viejas (El Ejido). Los Laureles de Laroles. Pensionistas de Berja. Trovo de Vicar. Grupo Infantil de Laroles. Al Cadí (Cadíar). El Auxar (Laujar de Andarax). Trovo de Albuñol. Belez y Omín (Pampaneira). Enjalma (Capileira). Talama (Bayárcal).</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 i 4500</leader>
+  <controlfield tag="001" >C14540321c-0</controlfield>
+  <controlfield tag="005" >20160329:12074000</controlfield>
+  <controlfield tag="007" >sdobsuauummued</controlfield>
+  <controlfield tag="008" >020326c1999    sp sg            1  spa j</controlfield>
+  <datafield tag="017" ind1=" " ind2=" " >
+    <subfield code="a" >GR-819-1999</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0040321</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >17. </subfield>
+    <subfield code="d" >1998.</subfield>
+    <subfield code="c" >Pitres)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >XVII Festival de música tradicional de la alpujarra </subfield>
+    <subfield code="b" >: Canciones populares de la comarca: La Taha, Pitres: 9 de agosto de 1998.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Granada : </subfield>
+    <subfield code="b" >Big Band de Granada, </subfield>
+    <subfield code="c" >1999.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 casete.</subfield>
+  </datafield>
+  <datafield tag="505" ind1=" " ind2=" " >
+    <subfield code="a" >Cara A: El auxar; Centro 3ª edad Berja; Cante mulero de Murtas; Los viñeros de Vícar; Grupo infantil Los Laureles; Al Cadi de Cadiar; Rondalla de Ugijar; Trovo Candiota y Sevilla.  -- Cara B: Agrupación de Pampaneira; Escuela de Orgiva y Torvizcón; Grupo infantil de Murtas; Agrupación de Pitres; Trovo la Rábita; Talama de Bayarcal</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Música tradicional-</subfield>
+    <subfield code="z" >La Alpujarra (Comarca)</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 i 4500</leader>
+  <controlfield tag="001" >C14541165c-9</controlfield>
+  <controlfield tag="005" >20160330:11214700</controlfield>
+  <controlfield tag="007" >sdobsuauummued</controlfield>
+  <controlfield tag="008" >020906s2001    sp sg            1  spa d</controlfield>
+  <datafield tag="017" ind1=" " ind2=" " >
+    <subfield code="a" >GR 1250 2001</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0041165</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >19. </subfield>
+    <subfield code="d" >2000.</subfield>
+    <subfield code="c" >Vícar-Almería)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >XIX Festival de Música Tradicional de la Alpujarra [</subfield>
+    <subfield code="h" >Grabación sonora]</subfield>
+    <subfield code="b" >: canciones populares de la comarca.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Granada : </subfield>
+    <subfield code="b" >BBG, </subfield>
+    <subfield code="c" >D.L. 2001.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 cassette : </subfield>
+    <subfield code="b" >estéreo.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Vícar (Almeria) 13 de agosto de 2000.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" " >
+    <subfield code="a" >Contiene: El Galayo de Albodoluy ;  Alqueria viva de Adra ; La garita de Dalias ;  Zaharagüi de Alcolea ;  Agrupación musical de Orgiva y Torvizcon ;  Cante mulero de Murtas ;  Grupo infantil de Laroles ;  El Auxar de Laujar de Andarax ;  Grupo de pensionistas de Berja ;  Los viñeros de Vicar ;  Trovo Sotillo-Castillo ;  Al-Cadi de Cadia ;  Los laureles de Laroles ;  Talama de Bayarcal.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Música tradicional-</subfield>
+    <subfield code="z" >La Alpujarra (Comarca)</subfield>
+  </datafield>
+  <datafield tag="650" ind1="2" ind2="4" >
+    <subfield code="a" >Folklore-</subfield>
+    <subfield code="z" >Alpujarra-</subfield>
+    <subfield code="v" >Grabaciones sonoras.</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 i 4500</leader>
+  <controlfield tag="001" >C14543293c-8</controlfield>
+  <controlfield tag="005" >20160330:12331600</controlfield>
+  <controlfield tag="007" >sdobsuauummued</controlfield>
+  <controlfield tag="008" >040123s2003    sp sg            1  spa d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0043293</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0" >
+    <subfield code="a" >Festival de Música tradicional de la Alpujarra [</subfield>
+    <subfield code="h" >Grabación sonora]</subfield>
+    <subfield code="b" >: Selección.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Granada : </subfield>
+    <subfield code="b" >CDMA, </subfield>
+    <subfield code="c" >2003.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 disco compacto (CD-DA ; </subfield>
+    <subfield code="c" >12 cm.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" " >
+    <subfield code="a" >Contiene: V Festival: Peteneras ; Jota del Puchichi. XII festival Dalias: Bolero ; Canción-juego. VI Festival Laujar: Canción de Trilla ; Las ruedas ; Jotica del puchichi ; ¿Bolero?. VII Festival Cádiar: Bolero ; Jotica del Cuchichi. VIII Festival Berja: Bolero ; Canciones de &quot;picailla&quot; ; Los barrileros. XI Festival Adra: El molino ; La rueda ; Canción cortada final de cinta. III Festival Ugíjar: Canción final ; Ole ; Bolero</subfield>
+  </datafield>
+  <datafield tag="511" ind1="1" ind2=" " >
+    <subfield code="a" >Int.: Grupo &quot; La Garita&quot; (Dalías)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Música tradicional-</subfield>
+    <subfield code="z" >La Alpujarra (Comarca)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" " >
+    <subfield code="a" >Festivales musicales.</subfield>
+  </datafield>
+  <datafield tag="710" ind1="2" ind2=" " >
+    <subfield code="a" >&quot;La Garita&quot;</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 i 4500</leader>
+  <controlfield tag="001" >C14547478c-0</controlfield>
+  <controlfield tag="005" >20160330:11274500</controlfield>
+  <controlfield tag="007" >sdobsuauummued</controlfield>
+  <controlfield tag="008" >061018s2000    sp sg            1  spa d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0047478</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >19. </subfield>
+    <subfield code="d" >2000.</subfield>
+    <subfield code="c" >Vícar-Almería)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >Festival de Vícar 2000 [</subfield>
+    <subfield code="h" >Grabación sonora].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >[S.l : </subfield>
+    <subfield code="b" >s.n], </subfield>
+    <subfield code="c" >2000.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >4 discos (CD-DA) ; </subfield>
+    <subfield code="c" >12 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Vícar (Almeria) 13 de agosto de 2000.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Grabado por el CDMA 2006.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" " >
+    <subfield code="a" >Contiene: CD 1: El Galayo de Alboloduy ; G.M albuñol ; Alquería viva de Adra ; La Garita de Dalías ; Trovo infantil de Murtas ; Zarahagui de Alcolea , C.M de Albondón ; Infantil de Laujar ; Villa del Río de Paterna -- CD 2: Trovo de la Rabita , As M. Orguva y Torvizcon ; Cante mulero de Murtas ; Infantil de Laroles ; Cante mulero de Albuñol ; Trovo de Guardias Viejas -- CD 3 : Barranco almerín de Adra ; El Auxar de Laujar ; Pensionistas de Berja ; Vineros de Vícar ; Trovo Sotillo-Castillo ; Al´Cadi de Cadiar ; A.C Manolo Escobar de El Ejido ; los Lureles de El Ejido ; Talama (Bayarcal) ; A.M de Pampaneira ; Barranco Gurria de Adra</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Música tradicional-</subfield>
+    <subfield code="z" >La Alpujarra (Comarca)</subfield>
+  </datafield>
+  <datafield tag="650" ind1="2" ind2="4" >
+    <subfield code="a" >Folklore-</subfield>
+    <subfield code="z" >Alpujarra-</subfield>
+    <subfield code="v" >Grabaciones sonoras.</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 i 4500</leader>
+  <controlfield tag="001" >C14547479c-8</controlfield>
+  <controlfield tag="005" >20160330:14071600</controlfield>
+  <controlfield tag="007" >sdobsuauummued</controlfield>
+  <controlfield tag="008" >061018s2000    sp sg            1  spa d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0047479</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >22. </subfield>
+    <subfield code="d" >2003.</subfield>
+    <subfield code="c" >Turón)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >Festival de Turón 2003 [</subfield>
+    <subfield code="h" >Grabación sonora].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >[S.l : </subfield>
+    <subfield code="b" >s.n], </subfield>
+    <subfield code="c" >2000.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >4 discos (CD-DA) ; </subfield>
+    <subfield code="c" >12 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Grabado por el CDMA 2006.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" " >
+    <subfield code="a" >Contiene: CD 1: Alqueria Viva ; Talama ; Esc Inf. Trovo Murtas ; El Galayo de Alboloduy ; Trovo Sotillo Castillo ; El Auxar ; Infantil de Talama ; Cante mulero de Albondon</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Música tradicional-</subfield>
+    <subfield code="z" >La Alpujarra (Comarca)</subfield>
+  </datafield>
+  <datafield tag="650" ind1="2" ind2="4" >
+    <subfield code="a" >Folklore-</subfield>
+    <subfield code="z" >Alpujarra-</subfield>
+    <subfield code="v" >Grabaciones sonoras.</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 i 4500</leader>
+  <controlfield tag="001" >C14547484c-8</controlfield>
+  <controlfield tag="005" >20160329:12090100</controlfield>
+  <controlfield tag="007" >sdobsuauummued</controlfield>
+  <controlfield tag="008" >061019s2000    sp sg            1  spa d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0047484</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >22. </subfield>
+    <subfield code="d" >2003.</subfield>
+    <subfield code="c" >Turón)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >Festival de Turón 2003 [</subfield>
+    <subfield code="h" >Grabación sonora].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >[S.l : </subfield>
+    <subfield code="b" >s.n], </subfield>
+    <subfield code="c" >2000.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >4 discos (CD-DA) ; </subfield>
+    <subfield code="c" >12 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Grabado por el CDMA 2006.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" " >
+    <subfield code="a" >Contiene: CD 1: Alqueria Viva ; Talama ; Esc Inf. Trovo Murtas ; El Galayo de Alboloduy ; Trovo Sotillo Castillo ; El Auxar ; Infantil de Talama ; Cante mulero de Albondon -- CD 2: Zaharagui ; Nuevas raices ; Zarzamora (Rubite) ; Trovo Castillo Panadero ; La Almaciga ; Barranco Burrias ; Alpujarreño de Vícar ; Pensionistas de Vícar -- CD 3: Los Laureles infantil ; Mayores Jóvenes de Murtas ; Los Viñeros de Vícar ; Trovo Antequera y Megías ; El Auxar infantil ; La Garita de Dalias ; Cante Mulero de Murtas ; Los Laureles ; Al Cadi-- CD 4: Virgen del Rosrio de Torvizcón ; Trovo Sevilla y Candiota ; Barranco Almerín ; Villa del Río de Paterna ; Flor de Almendro (Turón)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Música tradicional-</subfield>
+    <subfield code="z" >La Alpujarra (Comarca)</subfield>
+  </datafield>
+  <datafield tag="650" ind1="2" ind2="4" >
+    <subfield code="a" >Folklore-</subfield>
+    <subfield code="z" >Alpujarra-</subfield>
+    <subfield code="v" >Grabaciones sonoras.</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 i 4500</leader>
+  <controlfield tag="001" >C14548545c-X</controlfield>
+  <controlfield tag="005" >20160330:12460200</controlfield>
+  <controlfield tag="007" >sdobsuauummued</controlfield>
+  <controlfield tag="008" >070924s2007    sp               1  spa d</controlfield>
+  <datafield tag="017" ind1=" " ind2=" " >
+    <subfield code="a" >GR 1838-2007</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" " >
+    <subfield code="a" >84-89417-25-3</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0048545</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="3" >
+    <subfield code="a" >El Festival de Música Tradicional de la Alpujarra </subfield>
+    <subfield code="b" >: 25 años de la historia de una comarca.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Granada : </subfield>
+    <subfield code="b" >Hermanos Gallego-Hódar : </subfield>
+    <subfield code="b" >Asociación Cultural Abuxarra,</subfield>
+    <subfield code="c" >D.L. 2007.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >83 p. : </subfield>
+    <subfield code="b" >fot. col ; </subfield>
+    <subfield code="c" >30 cm + </subfield>
+    <subfield code="e" >1 cd.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Música tradicional-</subfield>
+    <subfield code="z" >La Alpujarra (Comarca)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2=" " >
+    <subfield code="a" >Festivales musicales.</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 i 4500</leader>
+  <controlfield tag="001" >C14550601c-8</controlfield>
+  <controlfield tag="005" >20160330:12491200</controlfield>
+  <controlfield tag="008" >091030s2006    sp                  spa d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0050601</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >25. </subfield>
+    <subfield code="d" >2006.</subfield>
+    <subfield code="c" >Alpujarra de la Sierra (Granada)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >XXV Festival 2006 [</subfield>
+    <subfield code="h" >Grabación sonora] </subfield>
+    <subfield code="b" >: Alpujarra de la Sierra, Mecina Bombarón, Yegen. </subfield>
+    <subfield code="n" >1.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >[Granada] : </subfield>
+    <subfield code="b" >[s.n.], </subfield>
+    <subfield code="c" >[2006]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 disco (CD-DA) ; </subfield>
+    <subfield code="c" >12 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Grabado por el Centro de Documentación Musical de Andalucía.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Música tradicional-</subfield>
+    <subfield code="z" >La Alpujarra (Comarca)</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 a 4500</leader>
+  <controlfield tag="001" >C14550866c-3</controlfield>
+  <controlfield tag="007" >ssobsuauummued</controlfield>
+  <controlfield tag="008" >100525s19921992sp sg            1      d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0050866</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0" >
+    <subfield code="a" >V Festival de Albuñol 1986 [</subfield>
+    <subfield code="h" >Grabación sonora] </subfield>
+    <subfield code="b" >: [recopilación].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >[Granada : </subfield>
+    <subfield code="b" >CDMA, </subfield>
+    <subfield code="c" >1992]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 casete sonoro (60 min. c/u.) : </subfield>
+    <subfield code="b" >estereo ; </subfield>
+    <subfield code="c" >12 cm.</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" " >
+    <subfield code="a" >[Festivales de música tradicional de la Alpujarra ; </subfield>
+    <subfield code="v" >2]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Remitida por José Criado.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Máster y copia.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" " >
+    <subfield code="a" >Contiene: Cara A: Continuación del Grupo de Trovo de Guardias Viejas: &quot;Candiota&quot; y Sevilla (incompleto), Grupo de Trovo de El Ejido: Megías y Antonio Martín (incompleto), Grupo de Válor: Por la mañana temprano, Pasodoble. Grupo de Albuñol: Robao -- Cara B: Continuación Grupo de Albuñol: Robao. Grupo de Sorvilán. Grupo de Murtas. Grupo de Cherín: 2 pasodoble, Ánimas</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Música tradicional</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Etnomusicología</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Alpujarra</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Festivales (Alpujarra)</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Master</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 a 4500</leader>
+  <controlfield tag="001" >C14550868c-8</controlfield>
+  <controlfield tag="007" >ssobsuauummued</controlfield>
+  <controlfield tag="008" >100525s19921992sp sg            1      d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0050868</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0" >
+    <subfield code="a" >V Festival de Albuñol 1986 ; IV Festival de Órgiva 1985 [</subfield>
+    <subfield code="h" >Grabación sonora] </subfield>
+    <subfield code="b" >: [recopilación].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >[Granada : </subfield>
+    <subfield code="b" >CDMA, </subfield>
+    <subfield code="c" >1992]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 casete sonoro (60 min. c/u.) : </subfield>
+    <subfield code="b" >estereo ; </subfield>
+    <subfield code="c" >12 cm.</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" " >
+    <subfield code="a" >[Festivales de música tradicional de la Alpujarra ; </subfield>
+    <subfield code="v" >3]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Remitida por José Criado.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Máster y copia.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" " >
+    <subfield code="a" >Contiene: Cara A: V Festival Albuñol 1986. Grupo de Albuñol. Grupo de Mecina Bombarón: Ven mi amor (Chotis). Grupo de Dalías: Petenera minera, Jota del Cuchichí. Grupo los Montoros: Canto del Vía Crucis -- Cara B. Continuación Grupo los Montoros. Sorteo elección pueblo VI Festival. Premios del V Festival. Grupo de Trovo de El Ejido. Soto y &quot;Candiota&quot;. IV Festival de Órgiva 1985 (incompleto)</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Música tradicional</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Etnomusicología</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Alpujarra</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Festivales (Alpujarra)</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Master</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 a 4500</leader>
+  <controlfield tag="001" >C14550869c-5</controlfield>
+  <controlfield tag="007" >ssobsuauummued</controlfield>
+  <controlfield tag="008" >100525s19921992sp sg            1      d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0050869</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0" >
+    <subfield code="a" >IV Festival de Órgiva 1985 ; III Festival de Ugíjar 1984 [</subfield>
+    <subfield code="h" >Grabación sonora] </subfield>
+    <subfield code="b" >: [recopilación].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >[Granada : </subfield>
+    <subfield code="b" >CDMA, </subfield>
+    <subfield code="c" >1992]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 casete sonoro (60 min. c/u.) : </subfield>
+    <subfield code="b" >estereo ; </subfield>
+    <subfield code="c" >12 cm.</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" " >
+    <subfield code="a" >[Festivales de música tradicional de la Alpujarra ; </subfield>
+    <subfield code="v" >4]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Remitida por José Criado.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Máster y copia.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" " >
+    <subfield code="a" >Contiene: Cara A: IV Festival de Órgiva 1985. La Reja. Grupo de Trovo de Murtas. Soto y &quot;Candiota&quot;. Grupo de Trovo de Balanegra. Megías y Servilla. III Festival de Ugíjar 1984 (incompleto) -- Cara B. Grupo de Dalías: bolero</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Música tradicional</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Etnomusicología</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Alpujarra</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Festivales (Alpujarra)</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Master</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 a 4500</leader>
+  <controlfield tag="001" >C14550870c-6</controlfield>
+  <controlfield tag="007" >ssobsuauummued</controlfield>
+  <controlfield tag="008" >100525s19921992sp sg            1      d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0050870</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0" >
+    <subfield code="a" >III Festival de Ugíjar 1984 , V Festival de Albuñol 1986 [</subfield>
+    <subfield code="h" >Grabación sonora] </subfield>
+    <subfield code="b" >: [recopilación].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >[Granada : </subfield>
+    <subfield code="b" >CDMA, </subfield>
+    <subfield code="c" >1992]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 casete sonoro (60 min. c/u.) : </subfield>
+    <subfield code="b" >estereo ; </subfield>
+    <subfield code="c" >12 cm.</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" " >
+    <subfield code="a" >[Festivales de música tradicional de la Alpujarra ; </subfield>
+    <subfield code="v" >5]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Remitida por José Criado.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Máster y copia.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" " >
+    <subfield code="a" >Contiene: Cara A: III Festival de Ugíjar 1984. Grupo de Trovo de Murtas. Soto y Morón. V Festival de Albuñol 1986 (incompleto) -- Cara B. Grupo de Trovo de El Ejido. Megías y Antonio Martín. Grupo de Dalías: La Rueda, Jotica el Cuchichí. Grupo de Laujar: Romande de la mora linda, Romance</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Música tradicional</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Etnomusicología</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Alpujarra</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Festivales (Alpujarra)</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Master</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 a 4500</leader>
+  <controlfield tag="001" >C14550871c-3</controlfield>
+  <controlfield tag="005" >20150722:09372800</controlfield>
+  <controlfield tag="007" >ssobsuauummued</controlfield>
+  <controlfield tag="008" >100525s19921992sp sg            1      d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0050871</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0" >
+    <subfield code="a" >VI Festival de Laujar 1987 ; IV Festival de Órgiva 1985 [</subfield>
+    <subfield code="h" >Grabación sonora] </subfield>
+    <subfield code="b" >: [recopilación].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >[Granada : </subfield>
+    <subfield code="b" >CDMA, </subfield>
+    <subfield code="c" >1992]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 casete sonoro (60 min. c/u.) : </subfield>
+    <subfield code="b" >estereo ; </subfield>
+    <subfield code="c" >12 cm.</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" " >
+    <subfield code="a" >[Festivales de música tradicional de la Alpujarra ; </subfield>
+    <subfield code="v" >6]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Remitida por José Criado.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Máster y copia.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" " >
+    <subfield code="a" >Contiene: Cara A: VI Festival de Laujar 1987. Grupo de Mecina Bombarón: Pasodoble. Grupo de Alboloduy: La barca. Grupo de Trovo de El Ejido. Megías y Soto. Grupo de Polopos: Polka. Grupo de Trovo  de Santo Domingo. Francis y José Antonio -- Cara B. Grupo de Trovo de Balanegra. Sevilla y Megías. IV Festival de Órgiva 1985</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Música tradicional</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Etnomusicología</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Alpujarra</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Festivales (Alpujarra)</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Master</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 a 4500</leader>
+  <controlfield tag="001" >C14550872c-0</controlfield>
+  <controlfield tag="007" >ssobsuauummued</controlfield>
+  <controlfield tag="008" >100525s19921992sp sg            1      d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0050872</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0" >
+    <subfield code="a" >IV Festival de Órgiva 1985 ; V Festival de Albuñol 1986 [</subfield>
+    <subfield code="h" >Grabación sonora] </subfield>
+    <subfield code="b" >: [recopilación].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >[Granada : </subfield>
+    <subfield code="b" >CDMA, </subfield>
+    <subfield code="c" >1992]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 casete sonoro (60 min. c/u.) : </subfield>
+    <subfield code="b" >estereo ; </subfield>
+    <subfield code="c" >12 cm.</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" " >
+    <subfield code="a" >[Festivales de música tradicional de la Alpujarra ; </subfield>
+    <subfield code="v" >7]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Remitida por José Criado.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Máster y copia.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" " >
+    <subfield code="a" >Contiene: Cara A: IV Festival de Órgiva 1985. En el café de Chinitas. Grupo de Berja. Grupo de Laroles: Polka en Re menor, Vals -- Cara B: Grupo de Trovo de Murtas. V Festival de Albuñol 1986. Grupo de Cáñar</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Música tradicional</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Etnomusicología</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Alpujarra</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Festivales (Alpujarra)</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Master</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 a 4500</leader>
+  <controlfield tag="001" >C14550873c-8</controlfield>
+  <controlfield tag="005" >20150602:12563500</controlfield>
+  <controlfield tag="007" >ssobsuauummued</controlfield>
+  <controlfield tag="008" >100525s19921992sp sg            1      d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0050873</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0" >
+    <subfield code="a" >V Festival de Albuñol 1986 ; III Festival de Ugíjar 1984 [</subfield>
+    <subfield code="h" >Grabación sonora] </subfield>
+    <subfield code="b" >: [recopilación].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >[Granada : </subfield>
+    <subfield code="b" >CDMA, </subfield>
+    <subfield code="c" >1992]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 casete sonoro (60 min. c/u.) : </subfield>
+    <subfield code="b" >estereo ; </subfield>
+    <subfield code="c" >12 cm.</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" " >
+    <subfield code="a" >[Festivales de música tradicional de la Alpujarra ; </subfield>
+    <subfield code="v" >8]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Remitida por José Criado.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Máster y copia.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" " >
+    <subfield code="a" >Contiene: Cara A: V Festival de Albuñol 1986. Grupo de Alboloduy: Bajé a la playa (Vals), Adios (pasacalles). Grupo de Cádiar. Grupo de Válor. Grupo de Yegen: mazurca -- Cara B. Grupo de Adra: Robao. Grupo de Órgiva: Polka. Grupo de Murtas: música de Trovo sin cante. Grupo de Trovo de Balanegra. Megías y Sevilla. III Festival de Ugíjar 1984 (incompleto)</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Música tradicional</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Etnomusicología</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Alpujarra</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Festivales (Alpujarra)</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Master</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 a 4500</leader>
+  <controlfield tag="001" >C14550874c-5</controlfield>
+  <controlfield tag="007" >ssobsuauummued</controlfield>
+  <controlfield tag="008" >100525s19921992sp sg            1      d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0050874</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0" >
+    <subfield code="a" >VI Festival de Laujar 1987 [</subfield>
+    <subfield code="h" >Grabación sonora] </subfield>
+    <subfield code="b" >: [recopilación].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >[Granada : </subfield>
+    <subfield code="b" >CDMA, </subfield>
+    <subfield code="c" >1992]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 casete sonoro (60 min. c/u.) : </subfield>
+    <subfield code="b" >estereo ; </subfield>
+    <subfield code="c" >12 cm.</subfield>
+  </datafield>
+  <datafield tag="490" ind1="0" ind2=" " >
+    <subfield code="a" >[Festivales de música tradicional de la Alpujarra ; </subfield>
+    <subfield code="v" >9]</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Remitida por José Criado.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Máster y copia.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" " >
+    <subfield code="a" >Contiene: Cara A: Grupo de Yegen: Rumba, Pasodoble. Grupo de Trovo de los Baños de Guardias Viejas. Sevilla y &quot;Candiota&quot; (incompleto) . Grupo de El Ejido. Grupo de Alhama de Almería: la calle del Viento. Grupo de Yátor. Grupo de Berja -- Cara B. Grupo de Trovo de la Rambla del Banco. Morón y Fernández (incompleta). Grupo de Válor: el baile del Levitín (robao). Grupo de Lanjarón: Alborada. Grupo de Laroles: Buen Aire (polka). Vals</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Música tradicional</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Etnomusicología</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Alpujarra</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Festivales (Alpujarra)</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Master</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 i 4500</leader>
+  <controlfield tag="001" >C143341684c-0</controlfield>
+  <controlfield tag="005" >20160329:12103800</controlfield>
+  <controlfield tag="007" >v ocbafusnaouenac</controlfield>
+  <controlfield tag="008" >120206s2009    sp               1vcspa d</controlfield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >25 Festival &quot;La construción&quot; [</subfield>
+    <subfield code="h" >Grabación sonora]. 26 Festival &quot;El tanga&quot;] </subfield>
+    <subfield code="b" >: Sevilla-Sotillo.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >[S.l : </subfield>
+    <subfield code="b" >s.n], </subfield>
+    <subfield code="c" >2009.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 disco (CD-DA) ; </subfield>
+    <subfield code="c" >12 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Grabado por el Centro de Documentación Musical de Andalucía, junio 2009.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Música tradicional-</subfield>
+    <subfield code="z" >La Alpujarra (Comarca)-</subfield>
+    <subfield code="v" >Vídeos.</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 i 4500</leader>
+  <controlfield tag="001" >C143351480c-X</controlfield>
+  <controlfield tag="005" >20160329:12112100</controlfield>
+  <controlfield tag="007" >v ocbafusnaouenac</controlfield>
+  <controlfield tag="008" >120720s2008    sp               1vcspa d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0047244</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >27º. </subfield>
+    <subfield code="d" >2008.</subfield>
+    <subfield code="c" >Alboloduy)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >27 Festival de Música Tradicional de La Alpujarra [</subfield>
+    <subfield code="h" >Grabación sonora]</subfield>
+    <subfield code="b" >: Alboloduy 2008.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >[S.l. : </subfield>
+    <subfield code="b" >s.n.], </subfield>
+    <subfield code="c" >[2008]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 disco (CD-DA) ; </subfield>
+    <subfield code="c" >12 cm.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" " >
+    <subfield code="a" >Contiene: Saludo trovo / Sotillo-Sevilla (Vícar). Recogiendo aceituna / Asoc. Cult. Los Tres Caños (Almócita). Trovo / Castilla-Peret (Adra). Dormidito está Jesús / El Auxar (Laújar de Andarax). Ay tralará larán / Barranco Almerín (Adra). Con el tango tarango / Alquería Viva (Adra). Tengo un novio / Talama (Bayárcal). Mudanzas y Robaos / Los Viñeros (Vícar). Vals / Los Laureles (Laroles). Baila la rumba / Villa del Río (Paterna del Río). Mudanzas y Robaos / Nuevas Raíces (Turón). Pasodobles / Aurora (Ugíjar). Mudanzas y Robaos / Barranco Gurrias (Adra). La Petronila / Alcadí (Cádiar). La máscara / Zaharagüí (Alcolea). Trovo / Antequera-Megías (Turón). La una y media van a dar / El Galayo (Alboloduy)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Música tradicional-</subfield>
+    <subfield code="z" >La Alpujarra (Comarca)</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 i 4500</leader>
+  <controlfield tag="001" >C143354728c-7</controlfield>
+  <controlfield tag="005" >20160329:12120000</controlfield>
+  <controlfield tag="007" >v ocbafusnaouenac</controlfield>
+  <controlfield tag="008" >121002s2012    sp               1vcspa d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0047244</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >30º. </subfield>
+    <subfield code="d" >2011.</subfield>
+    <subfield code="c" >Bayárcal)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >XXX Festival de Música Tradicional de La Alpujarra [</subfield>
+    <subfield code="h" >Grabación sonora]</subfield>
+    <subfield code="b" >: Bayárcal 2011.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Motril (Granada) : </subfield>
+    <subfield code="b" >Motriservi, </subfield>
+    <subfield code="c" >2012.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 disco (CD-DA) ; </subfield>
+    <subfield code="c" >12 cm.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" " >
+    <subfield code="a" >Contiene: Lola mía ; Viva Bayárcal / Talama (Bayárcal). Vals: piropo de la Alpujarra / Al Qaria (Adra). Trovo ley Antitabaco / Antequera y Mejías (Turón). Carmela / El Auxar (Laújar del Andarax). Tanguillo de Mairena en La / Balcón de la Alpujarra (Mairena). Mudanzas y Robaos / Barranco Almerín (Adra). El chaleco de Diego / Al Cadí (Cádiar). Trovo Agricultura ecológica / Sotillo y Sevilla (Vícar). Coplilla de remerinos / San Miguel (Mecina Bombarón). Mudanzas y Robaos / Los Viñeros (Vícar). La joven deshonrada / Zaharagüí (Alcolea). Mudanzas y Robaos / Nuevas Raíces (Turón). Mazurca en La menor de Dolores Linares / Aben Humeya (Válor). La faena / Los Tres Caños (Almócita). Trovo Las suegras / Martín y El Panadero (Albondón). ¿Dónde vas Margarita? / Alquería Viva, La Alquería (Adra). Saludo a Valdepeñas / Los Laureles (Laroles). Trovo La crisis del Écoli / Castilla y Peret (Adra). La hoja de laurel / Villa del Río (Paterna del Río).  Trovo / Escuela Infantil de Trovo (Murtas). Cante mulero / Cante Mulero (Cádiar)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Música tradicional-</subfield>
+    <subfield code="z" >La Alpujarra (Comarca)</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 i 4500</leader>
+  <controlfield tag="001" >C143369263c-5</controlfield>
+  <controlfield tag="005" >20130508115138.0</controlfield>
+  <controlfield tag="008" >130508s2011    sp                  spa d</controlfield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" " >
+    <subfield code="a" >Al-Cadí (Grupo musical)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra. </subfield>
+    <subfield code="n" >1 [</subfield>
+    <subfield code="h" >Grabación sonora]</subfield>
+    <subfield code="b" >: (1982-2010) / </subfield>
+    <subfield code="c" >Grupo Al Cadi.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >[S.l : </subfield>
+    <subfield code="b" >s.n, </subfield>
+    <subfield code="c" >2011]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 disco (CD-DA) ; </subfield>
+    <subfield code="c" >12 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Grabado por el CDMA, marzo 2011.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" " >
+    <subfield code="a" >Contiene: Las ánimas (Yegen 1982) ; La molinera (Musrtas 1983) ; En el río del Sultán (Berja 1989) ; Rosario de la Aurora (Laroles 1991) ; El aguilando (Dalias 1993) ; En busca del helecho (Dalias 1993) ; Anda niña tonta (Lanjarón 1994) ; La fiesta de San Juan (El Ejido 1995) ; Las niñas de la calleja ; En la placeta del Prado (Capileira 1996) ; Dejemos las señoritas (Fondón 1997) ; Los mozos duros de Cádiar (Pitres 1998) ; Los carabineros (Pitres 1998) ; Al olivo, al olivo (Paterna del Río 1999) ; Se casó el tío Tarantán (Paterna del Río 199) ; Debajo de tu ventana (Vícar 2000) ; En esta calle señores (Albondón 2001)</subfield>
+  </datafield>
+  <datafield tag="511" ind1="1" ind2=" " >
+    <subfield code="a" >Int.: Grupo Al Cadí.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Festivales musicales.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4" >
+    <subfield code="a" >Música tradicional-</subfield>
+    <subfield code="z" >Andalucía.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Música popular-</subfield>
+    <subfield code="z" >Alpujarra.</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 i 4500</leader>
+  <controlfield tag="001" >C143369268c-6</controlfield>
+  <controlfield tag="005" >20130508120142.0</controlfield>
+  <controlfield tag="008" >130508s2011    sp                  spa d</controlfield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="110" ind1="2" ind2=" " >
+    <subfield code="a" >Al-Cadí (Grupo musical)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra. </subfield>
+    <subfield code="n" >2 [</subfield>
+    <subfield code="h" >Grabación sonora]</subfield>
+    <subfield code="b" >: (1982-2010) / </subfield>
+    <subfield code="c" >Grupo Al Cadi.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >[S.l : </subfield>
+    <subfield code="b" >s.n, </subfield>
+    <subfield code="c" >2011]</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 disco (CD-DA) ; </subfield>
+    <subfield code="c" >12 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Grabado por el CDMA, marzo 2011.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" " >
+    <subfield code="a" >Contiene: Plantar arbolitos (Murtas 2002) ; A los olivaritos (Murtas 2002) ; Madre, cuando voy a por leña (Turón 2003) ; Carta a un amigo (Turón 2003) ; Están las niñas de Cádiar (Padules 2004) ; Chaparrita de Narila (Padules 2004) ; La estudiantina de Cadiar (Rubite 2005) ; Añoranza (Rubite 20059 ; El agua agria de Narial (Alpujarra de la Sierra 2006) ; Campanillo de San Blas (alpujarra de la Sierra 2006) ; Tengo una novia señores (Alquería 2007) ; la bordadora de velos ( Alquería 2007) ; Camino del campamento (Mairena 2009) ; De parva nos conocimos (Mairena 2009) ; Una paloma blanca (Almocita 2010) ; Quédate con el haza (Almocita 2010)</subfield>
+  </datafield>
+  <datafield tag="511" ind1="1" ind2=" " >
+    <subfield code="a" >Int.: Grupo Al Cadí.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Festivales musicales.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4" >
+    <subfield code="a" >Música tradicional-</subfield>
+    <subfield code="z" >Andalucía.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Música popular-</subfield>
+    <subfield code="z" >Alpujarra.</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 i 4500</leader>
+  <controlfield tag="001" >C143447932c-3</controlfield>
+  <controlfield tag="005" >20160329:12123500</controlfield>
+  <controlfield tag="007" >v ocbafusnaouenac</controlfield>
+  <controlfield tag="008" >130912s2012    esp              1vcspa d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0047244</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >31º. </subfield>
+    <subfield code="d" >2012.</subfield>
+    <subfield code="c" >Cádiar)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >XXXI Festival de Música Tradicional de La Alpujarra [</subfield>
+    <subfield code="h" >Grabación sonora]</subfield>
+    <subfield code="b" >: Cádiar, agosto 2012.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Motril (Granada) : </subfield>
+    <subfield code="b" >Motriservi, </subfield>
+    <subfield code="c" >2012.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 disco (CD-DA) ; </subfield>
+    <subfield code="c" >12 cm.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" " >
+    <subfield code="a" >Contiene: Cante mulero / Cante Mulero (Cádiar). Canciones de cuela / Zarzamora (Rubite). La molinera / Las Moreas (Lobras). Las cosillas de las niñas de Paterna / Villa del Río (Paterna del Río). Serenata de la Alquería /José M. Aguilar, Al Qaria (Adra). Trovo &quot;La fuente del vino&quot; / Antequera y Mejías (Turón). Me tengo que ir a vivir / Sahyl (Torvizcón). Mari Rosa / Los Tres Caños (Almócita). La bata / El Auxar (Laújar del Andarax). Trobo &quot;El deporte&quot; / Martín y El Panadero (Albondón). Dale la vuelta, Antonio / Talama (Bayárcal). Pasodoble &quot;El alguacil&quot; / Nacho Reinoso, Aben Humeya (Válor). Cuatro esquinas / Zaharagüí (Alcolea). Anillitos de oro / Alquería Viva Adra (Adra). Trovo &quot;Las subidas de impuestos&quot; / Castilla y Peret (Adra). Pasacalles de Nevada / Los Laureles (Laroles). Alborada antigua / Coro Tradicional de Lanjarón. Polka en recuerdo del tío Antonio / Aurora (Ugíjar). Trovo &quot;Los bancos y la bolsa&quot; / Sotillo y Sevilla (Vícar). Mi terrón de azúcar / San Miguel (Mecina Bombarón). A Cádiar / Domingo Reinoso, Al Cadí (Cádiar)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Música tradicional-</subfield>
+    <subfield code="z" >La Alpujarra (Comarca)</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 i 4500</leader>
+  <controlfield tag="001" >C143468784c-8</controlfield>
+  <controlfield tag="005" >20160706:11545800</controlfield>
+  <controlfield tag="007" >vdocbafusnaouenac</controlfield>
+  <controlfield tag="008" >140905s2013    esp|||  |        1ucspa d</controlfield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >32º. </subfield>
+    <subfield code="d" >2013.</subfield>
+    <subfield code="c" >Albondón)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >XXXII Festival de Música Tradicional de La Alpujarra </subfield>
+    <subfield code="b" >: Albondón, Granada, 11 de agosto 2013.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Motril (Granada) : </subfield>
+    <subfield code="b" >Motriservi, </subfield>
+    <subfield code="c" >2013.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 disco (CD-DA) ; </subfield>
+    <subfield code="c" >12 cm.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" " >
+    <subfield code="a" >Música (interpretada)</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" " >
+    <subfield code="a" >audio</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" " >
+    <subfield code="a" >Cante mulero / Cádiar. Mi suegra / Asociación Cultural Los Tres Caños (Almócita). Sesé con el sesé / Villa del Río (Paterna del Río). Los políticos y la corrupción / Trovo Sotillo y Sevilla (Vícar). La doncella guerrera / Taller de Música Tradicional (Órgiva). Isabelita / Alquería Viva Adra (Adra). Mudanzas del río / Barrancon Almerín (Adra). Coplillas de cuela / Zarzamora (Rubite). Remerinos de Torvizcón / Sahyl (Torvizcón). Mudanzas y robao / Los Viñeros (Vícar). Las calabazas / San Sebastián (Yátor). Mazurca: abril / Aurora (Ugíjar). Trovo / Antequera y Mejías (Vícar). Comparsa de Mecina Alfahar / Aben Humeya (Válor). Pasodoble Los cocineros / Al Cadí (Cádiar). Mazurca Los molinos / Los Laureles (Laroles). Jé que te la pegué / San Miguel (Mecina Bombarón). La monarquía / Trovo José Martín y El Panadero (Albondón). Máscara si vas al baile / Zaharagüí (Alcolea). Comparsa de carnaval / Grupo de Música Tradicional (Albondón). Ruedas de carnaval / Talama (Bayárcal)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Música tradicional-</subfield>
+    <subfield code="z" >La Alpujarra (Comarca)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Canciones populares-</subfield>
+    <subfield code="z" >La Alpujarra (Comarca)</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000   4500</leader>
+  <controlfield tag="001" >C143491534c-4</controlfield>
+  <controlfield tag="005" >20150610:12323800</controlfield>
+  <controlfield tag="008" >150610s1997    sp              0    d</controlfield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >16. </subfield>
+    <subfield code="d" >1997.</subfield>
+    <subfield code="c" >Fondón)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="0" >
+    <subfield code="a" >XVI festival de musica tradicional de la Alpujarra Fondón </subfield>
+    <subfield code="b" >: 12 de agosto 1997.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Granada : </subfield>
+    <subfield code="b" >Diputacion De Granada ; Diputacion De Almeria ; Juant De Andalucia, </subfield>
+    <subfield code="c" >1997</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 DVD (Vídeo) ; </subfield>
+    <subfield code="c" >12 cm.</subfield>
+  </datafield>
+  <datafield tag="530" ind1=" " ind2=" " >
+    <subfield code="a" >Disponible también en 1 disco blu-ray.</subfield>
+  </datafield>
+  <datafield tag="653" ind1=" " ind2=" " >
+    <subfield code="a" >Musica tradicional</subfield>
+  </datafield>
+  <datafield tag="653" ind1=" " ind2=" " >
+    <subfield code="a" >Alpujarra</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 i 4500</leader>
+  <controlfield tag="001" >C143543711c-X</controlfield>
+  <controlfield tag="005" >20211021:03212800</controlfield>
+  <controlfield tag="007" >vdocbafusnaouenac</controlfield>
+  <controlfield tag="008" >160706s2002    esp|||  |        1ucspa d</controlfield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >21º. </subfield>
+    <subfield code="d" >2002.</subfield>
+    <subfield code="c" >Murtas)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >Música Tradicional de La Alpujarra </subfield>
+    <subfield code="b" >: Murtas, 11 de agosto 2002 : [selección de canciones].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >[S.l. : </subfield>
+    <subfield code="b" >s.n., </subfield>
+    <subfield code="c" >2002].</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 disco sonoro (CD-DA) ; </subfield>
+    <subfield code="c" >12 cm.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" " >
+    <subfield code="a" >Música (interpretada)</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" " >
+    <subfield code="a" >audio</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" " >
+    <subfield code="a" >Vitrola / Los Laureles de Laroles. Trovo Sotillo y Castillo (Vícar). Vals / Infantil de Laroles. Cante Mulero de Murtas. En un rincón sevillano / La Carita de Dalías. Escuela Infantil de Trovo de Murtas. Trovo Linares y Peret. La calle del Aire / Zarzamora de Rubite. Plantar arbolitos / Al Cadí (Cádiar). Canciones de rueda / Mayores Jóvenes de Murtas. Cuando me ve mi novio / Coro Tradicional de Lanjarón. Trovo Sevilla y Candiota (Guardias Viejas). Parranda cortijera / Bele y Omín (Pampaneira). Mazurca en La menor / Enjalma de Capileira</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Música tradicional-</subfield>
+    <subfield code="z" >La Alpujarra (Comarca)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Canciones populares-</subfield>
+    <subfield code="z" >La Alpujarra (Comarca)</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 i 4500</leader>
+  <controlfield tag="001" >C143543718c-7</controlfield>
+  <controlfield tag="005" >20200603:03285800</controlfield>
+  <controlfield tag="007" >vdocbafusnaouenac</controlfield>
+  <controlfield tag="008" >160706s2014    esp|||  |        1ucspa d</controlfield>
+  <datafield tag="017" ind1=" " ind2=" " >
+    <subfield code="a" >AL 530-2014</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >33º. </subfield>
+    <subfield code="d" >2014.</subfield>
+    <subfield code="c" >Alcolea, Almería)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >XXXIII Festival de Música Tradicional de La Alpujarra </subfield>
+    <subfield code="b" >: Alcolea, Almería, 10 de agosto 2014.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Motril (Granada) : </subfield>
+    <subfield code="b" >Motriservi, </subfield>
+    <subfield code="c" >2014</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 disco sonoro (CD-DA) ; </subfield>
+    <subfield code="c" >12 cm.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" " >
+    <subfield code="a" >Música (interpretada)</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" " >
+    <subfield code="a" >audio</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" " >
+    <subfield code="a" >Cante mulero / Cádiar. Fandangos cortijeros / El Ejido Puerta de la Alpujarra. De coger tomillo / Asociación Cultural Los Tres Caños (Almócita). Quererlo niña bonita / Villa del Río (Paternadel Río). Trovo los mayores y las residencias / Trovo Sotillo y Sevilla (Vícar). Fandangos de Órgiva / Taller de Música Tradicional (Órgiva). Me casó mi madre / Los Moreas (Lobras). Fandangos cortijeros / Los Viñeros (Vícar). Los marineros / Zarzamora (Rubite). Una niña se bañaba / El Auxar (Laujar de Andarax). Fandangos cortijeros / Barranco Currías (Adra). ¡Ay!, sí sí, ¡Ay!, no no / Talama (Bayárcal). Jardinera / Grupo municipal de Cuerda (Pórtugos). Fandangos cortijeros / El Almez (Adra). Despierto antiguo / Aurora (Ugíjar). Vals fuente Mauricio ; Pasodoble Buenavista / Los Laureles (Laroles). El curita / La Garita (Dalías). Trovo Las becas / Castilla y Peret (Adra). Romance El corregidor y la molinera / Aben Humeya (Válor). Trovo Las nuevas tecnologías / José Martín y El Panadero (Albondón). Fandangos cortijeros / Nuevas Raíces (Turón). En los jardines del cielo / Zaharagüí (Alcolea)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Música tradicional-</subfield>
+    <subfield code="z" >La Alpujarra (Comarca)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Canciones populares-</subfield>
+    <subfield code="z" >La Alpujarra (Comarca)</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 i 4500</leader>
+  <controlfield tag="001" >C143545122c-8</controlfield>
+  <controlfield tag="005" >20160823:08430100</controlfield>
+  <controlfield tag="007" >vdocbafusnaouenac</controlfield>
+  <controlfield tag="008" >160819s2015    esp|||  |        1ucspa d</controlfield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >34º. </subfield>
+    <subfield code="d" >2015.</subfield>
+    <subfield code="c" >Ugíjar)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >XXXIV Festival de Música Tradicional de La Alpujarra </subfield>
+    <subfield code="b" >: Ugíjar, Granada, 9 de agosto 2015.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Motril (Granada) : </subfield>
+    <subfield code="b" >Motriservi, </subfield>
+    <subfield code="c" >2015</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 disco sonoro (CD-DA) ; </subfield>
+    <subfield code="c" >12 cm.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" " >
+    <subfield code="a" >Música (interpretada)</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" " >
+    <subfield code="a" >audio</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" " >
+    <subfield code="a" >Mudanzas y robaos / El Ejido Puerta de la Alpujarra. El día que nos casemos / Talama (Bayárcal). El pañuelo / Villa del Río (Paterna del Río). La niña de la calleja / Asociación Cultural Los Tres Caños (Almócita). Cante mulero / Cante mulero de Cádiar. Corazón de avellana / Asociación Cultural La Alquería Víva la Alquería (Adra). Trovo El divorcio / Trovo Sotillo y Sevilla (Vícar). Cantes y bailes de carnaval / Asociación Cultural Barranco de Almerín (Adra). Mudanzas y robaos / Barranco Currías (Adra). Villancico Los pastores / Taller de Música Tradicional (Órgiva). Habaneras La flecha / El Galayo (Alboloduy). Trovo El aborto / Antequera y Constantino (Vícar). Canción de aguinaldo: Mi suegra  / Aben Humeya (Válor). Mudanzas y robaos / Nuevas Raíces (Turón). Carnaval: Rescate de 1930 / La Garita (Dalías). Todas las penas del mundo / Zaharagüí (Alcolea). Trovo La independencia de Cataluña / Castilla y Peret (Adra). La paleta: hacer corro / Grupo municipal de Cuerda (Pórtugos). Pasodoble La montera / Los Laureles (Laroles). Mudanzas y robaos /  Los Viñeros (Vícar). Eres el mejor racimo / San sebastián de Yátor. Carmela la gitana / Aurora (Ugíjar). La despedida / Los Moreas (Lobras)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Música tradicional-</subfield>
+    <subfield code="z" >La Alpujarra (Comarca)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Canciones populares-</subfield>
+    <subfield code="z" >La Alpujarra (Comarca)</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 i 4500</leader>
+  <controlfield tag="001" >C143561083c-0</controlfield>
+  <controlfield tag="005" >20170825:12570800</controlfield>
+  <controlfield tag="007" >vdocbafusnaouenac</controlfield>
+  <controlfield tag="008" >170825s2016    esp|||  |        1ucspa d</controlfield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >35º. </subfield>
+    <subfield code="d" >2016.</subfield>
+    <subfield code="c" >Ugíjar)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >XXXV Festival de Música Tradicional de La Alpujarra </subfield>
+    <subfield code="b" >: Ugíjar, Granada, 14 de agosto 2016.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >[S.l. : </subfield>
+    <subfield code="b" >s.n.], </subfield>
+    <subfield code="c" >2016</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 disco sonoro (CD-DA) ; </subfield>
+    <subfield code="c" >12 cm.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" " >
+    <subfield code="a" >Música (interpretada)</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" " >
+    <subfield code="a" >audio</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" " >
+    <subfield code="a" >Vengo de la mar salada / Sahyl. Juegos populares / La Garita (Dalías). Trovo: Los abuelos cuidando nietos / Peret y Morón (Adra). Pasodoble de corrales / Los Vergeles. Mudanzas y robaos / Asociación Cultural Barranco de Almerín (Adra). Con la toquilla te quiero / Talama (Bayárcal). Vals de Manuel Conde / Algaida. Cante Mulero / Cante mulero Morón. Al lado de la cabaña / Aben Humeya (Válor). Mudanzas y robaos / Los Viñeros (Vícar). Pasodoble soplox / Los Laureles (Laroles). Mudanzas y robaos / Barranco Currías (Adra). Romane del prisionero / Zaharagüí (Alcolea). Mudanzas y robaos / El Ejido Puerta de la Alpujarra. Coplas del afilador / Taller de Música Tradicional (Órgiva). Trovo: Las despedidas de soltero / Panadero y Barranco. Popurrí de ruedas infantiles / El Auxar. Ay, Lerén / Asociación Cultural La Alquería Víva la Alquería (Adra). Mudanzas / Nuevas Raíces (Turón). La canción del molinero / Fuente Agria. Y sin embargo, los señores... / Al Cadí. Trovo: Las terceras elecciones / Antequera y Constantino (Vícar). Se unen las mocitas / Aurora (Ugíjar)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Música tradicional-</subfield>
+    <subfield code="z" >La Alpujarra (Comarca)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Canciones populares-</subfield>
+    <subfield code="z" >La Alpujarra (Comarca)</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 i 4500</leader>
+  <controlfield tag="001" >C143575989c-3</controlfield>
+  <controlfield tag="005" >20180820:09291900</controlfield>
+  <controlfield tag="007" >vdocbafusnaouenac</controlfield>
+  <controlfield tag="008" >180820s2017    esp|||  |        1ucspa d</controlfield>
+  <datafield tag="017" ind1=" " ind2=" " >
+    <subfield code="a" >AL 2289-2017</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >36º. </subfield>
+    <subfield code="d" >2017.</subfield>
+    <subfield code="c" >Laujar de Andarax)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >XXXVII Festival de Música Tradicional de La Alpujarra </subfield>
+    <subfield code="b" >: Laujar de Andarax, Almería, 13 de agosto 2017.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >[S.l. : </subfield>
+    <subfield code="b" >s.n.], </subfield>
+    <subfield code="c" >2017</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 disco sonoro (CD-DA) ; </subfield>
+    <subfield code="c" >12 cm.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" " >
+    <subfield code="a" >Música (interpretada)</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" " >
+    <subfield code="a" >audio</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" " >
+    <subfield code="a" >Cante mulero / Cante mulero de Cádiar. Canciones de rueda / Los Tres Caños de Almócita. Mudanzas / Nuevas Raíces (Turón). La música de las mozuelas / Taller de Música Tradicional (Cáñar). Popurrí de ruedas / Zarzamora (Rubite). El turismo / Trovo de Sotillo y Sevilla (Vícar). Un marinero en tierra / Alquería Viva (Adra). Una dama en el balcón / Al Cadí (Cádiar). Cante alpujarreño / Asociación Cultural Barranco de Almerín (Adra). Canciones de rueda y picaílla / Fuente Agria (Pórtugos). Salve de difuntus / Virgen del Rosario del centro de día de Berja. La lotería / Trovo Barranco y el Panadero (Albondón). Pasodoble Mi lucero / Talama (Bayárcal). Mudanzas y robaos / Barranco Currías (Adra). Romance de la mora cautiva / La Garita (Dalías). Las doce palabras retornedas / Taller de Música Tradicional (Órgiva). Mazurca en La mayor / Los Laureles (Laroles). Morir de amor / El Galayo (Alboloduy). El divorcio / Trovo Peret y Morón (Cádiar). Canciones de ánimas y timar / Las Moreas (Lobras). Arroyo claro / Aurora (Ugíjar). Los soldaditos / Zaharagüí (Alcolea). El parral / El Auxar (Laujar de Andarax)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Música tradicional-</subfield>
+    <subfield code="z" >La Alpujarra (Comarca)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Canciones populares-</subfield>
+    <subfield code="z" >La Alpujarra (Comarca)</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 i 4500</leader>
+  <controlfield tag="001" >C143596293c-1</controlfield>
+  <controlfield tag="005" >20190817:03214300</controlfield>
+  <controlfield tag="007" >vdocbafusnaouenac</controlfield>
+  <controlfield tag="008" >190816s2018    esp|||  |        1ucspa d</controlfield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >37º. </subfield>
+    <subfield code="d" >2018.</subfield>
+    <subfield code="c" >Turón)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >XXXVII Festival de Música Tradicional de La Alpujarra </subfield>
+    <subfield code="b" >: Turón, Granada, 12 de agosto 2018.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Motril (Granada) : </subfield>
+    <subfield code="b" >Motriservi, </subfield>
+    <subfield code="c" >2018.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 disco sonoro (CD-DA) ; </subfield>
+    <subfield code="c" >12 cm.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" " >
+    <subfield code="a" >Música (interpretada)</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" " >
+    <subfield code="a" >audio</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" " >
+    <subfield code="a" >Trovo infantil / Escuela de trovo infantil de Murtas. Mariquilla el moquillo / Taller de música tradicional de Órgiva. Esta es la rueda del mundo / Virgen del Rosario de Baños de Santiago de Paterna del Río. Mudanzas y robaos / Asoc. Cult. Barranco Almerín de Adra. El bolero de Dalías / La Garita de Dalías. Romance al pie de Sierra Nevada / Talama de Bayárcal. Mudanzas y robaos / Barranco Gurrías de Adra. Ermitaño, si vas a la ermita / Las Moreas de Lobras. A reir y soñar / Los Tres Caños de Almócita y orquesta de Bentarique. Trovo Los taxistas y la huelga / Trovo de &quot;Barranquito y Constantino&quot; de El Ejido. Sal morena a la ventana / Zarzamora de Rubite. Trovo La independencia de Cataluña / Trovo &quot;Morón y Peret&quot; de Cádiar. La dama y el pastor / Aurora de Ugíjar. Cante mulero de Cádiar. Romance de Jornirátar / Al Cadí de Cádiar. Trovo Los abuelos y el cuidado de los nietos / Trovo &quot;El panadero y Barranco&quot; de Albondón. Romance, Casada en lejanas tierras / Aben Humeya de Válor. Polca en La Mayor / Los Laureles de Laroles-Nevada. Romance Abandono y reencuentro / Zaharagúi de Alcolea. Mudanzas y robaos / Nuevas Raices de Turón</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Música tradicional-</subfield>
+    <subfield code="z" >La Alpujarra (Comarca)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Canciones populares-</subfield>
+    <subfield code="z" >La Alpujarra (Comarca)</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 i 4500</leader>
+  <controlfield tag="001" >C143611802c-6</controlfield>
+  <controlfield tag="005" >20200910:12260300</controlfield>
+  <controlfield tag="007" >ssolsnannnpnne</controlfield>
+  <controlfield tag="008" >200910c1984    sp fm|         | 1  spa |</controlfield>
+  <datafield tag="017" ind1=" " ind2=" " >
+    <subfield code="a" >B 21372-1984</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >1. </subfield>
+    <subfield code="d" >1982.</subfield>
+    <subfield code="c" >Yegen)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >I Festival de Música Tradicional de Cuerda de las Alpujarras </subfield>
+    <subfield code="b" >: Yegen, 3 de enero de 1982.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Barcelona : </subfield>
+    <subfield code="b" >Yoko Imperial, </subfield>
+    <subfield code="c" >1984.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 casete : </subfield>
+    <subfield code="b" >estéreo.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" " >
+    <subfield code="a" >Contiene: Cara A: Trovos alpujarreños (Murtas) ; a mi primer amor (Sorvilán) ; Pino verde (Berchules) ; Pasacalles (Yegen) ; Mazurca &quot;La zurda&quot; ( Bubión) ; El despierto de la aurora (Ugijar) -- Cara B: Pasodoble (Valor) ; Vive la banda (Trevelez) ; mazurca &quot;La Antigua&quot; (Capileira) ; Arborada (Lanjarón) ; Fandango &quot;Robao&quot; (Berja) ; Mazurca &quot;La granaina&quot; (Laroles) ; El Chato del Albaycín (Notaez) ; Las ánimas (Cadiar) ; Tanguillo (Mairena)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Música tradicional.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="2" ind2="4" >
+    <subfield code="a" >Folklore.</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 i 4500</leader>
+  <controlfield tag="001" >C143611803c-4</controlfield>
+  <controlfield tag="005" >20200910:13213700</controlfield>
+  <controlfield tag="007" >ssolsnannnpnne</controlfield>
+  <controlfield tag="008" >200910c1984    sp fm|         | 1  spa |</controlfield>
+  <datafield tag="017" ind1=" " ind2=" " >
+    <subfield code="a" >B 26543-1984</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >2. </subfield>
+    <subfield code="d" >1983.</subfield>
+    <subfield code="c" >Murtas)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >II Festival de Música Tradicional de la Alpujarra </subfield>
+    <subfield code="b" >:  Murtas, 14 de agosto de 1983.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Barcelona : </subfield>
+    <subfield code="b" >Yoko Imperial, </subfield>
+    <subfield code="c" >1984.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 casete : </subfield>
+    <subfield code="b" >estéreo.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" " >
+    <subfield code="a" >Contiene: Cara A: Baile de ánimas (Ugijar) ; Remerino &quot;La molinera&quot; (Cadiar) ; Fandango Serreño (Montañeros de Murtas) ; Mazurca (Orgiva) ; Vals de Baena (Berchules) ; Fandangos Alpujarreños (Cortijo de Adra) -- Cara B: Lento parranda cortijera de Murtas ; Comparsa (Valor) ; Serenata (Sorvilán) ; Alborada (Laroles) ; Fandango alpujarreño (Albuñol)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Música tradicional.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="2" ind2="4" >
+    <subfield code="a" >Folklore.</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 i 4500</leader>
+  <controlfield tag="001" >C143611809c-3</controlfield>
+  <controlfield tag="005" >20200910:13200000</controlfield>
+  <controlfield tag="007" >ssolsnannnpnne</controlfield>
+  <controlfield tag="008" >200910c1985    sp fm|         | 1  spa |</controlfield>
+  <datafield tag="017" ind1=" " ind2=" " >
+    <subfield code="a" >B 28769-1985</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >3. </subfield>
+    <subfield code="d" >1984.</subfield>
+    <subfield code="c" >Ugijar)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >III Festival de Música Tradicional de la Alpujarra </subfield>
+    <subfield code="b" >:  Ugijar&#39;84.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Barcelona : </subfield>
+    <subfield code="b" >Open Records, </subfield>
+    <subfield code="c" >1985.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 casete : </subfield>
+    <subfield code="b" >estéreo.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" " >
+    <subfield code="a" >Contiene: Cara A: Trovos (albuñol) ; Comparsa de carnaval (El ejido) ; Canto de Mecedres (Ugijar) ; Bolero (Dalías) ; Canto de Muleros (Albondón) ; Pasacalles (Yator) ; Himno de San Blas (Cadiar) ; Historia de Jose María &quot;El Tempranillo&quot; (Valor) .. Cara B: Fandango (Laroles) ; Rumba Rosita (Yegen) ; El parral (Laujar Andarax) ; Mulazas del río (Adra) ; Mazurca antigua (Orgiva) ; Fiesta de los doblones: ole. Sevillanas de la Alpujarra (Balanegra) ; Trovo cantado (Murtas)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Música tradicional.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="2" ind2="4" >
+    <subfield code="a" >Folklore.</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 i 4500</leader>
+  <controlfield tag="001" >C143611814c-X</controlfield>
+  <controlfield tag="005" >20200910:13480300</controlfield>
+  <controlfield tag="007" >ssolsnannnpnne</controlfield>
+  <controlfield tag="008" >200910c1986    sp fm|         | 1  spa |</controlfield>
+  <datafield tag="017" ind1=" " ind2=" " >
+    <subfield code="a" >B 26456-1986</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="111" ind1="2" ind2=" " >
+    <subfield code="a" >Festival de Música Tradicional de la Alpujarra (</subfield>
+    <subfield code="n" >4. </subfield>
+    <subfield code="d" >1985.</subfield>
+    <subfield code="c" >Orgiva)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >IV Festival de Música Tradicional de la Alpujarra </subfield>
+    <subfield code="b" >:  Orgiva&#39;85.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Barcelona : </subfield>
+    <subfield code="b" >Open Records, </subfield>
+    <subfield code="c" >1986.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 casete : </subfield>
+    <subfield code="b" >estéreo.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" " >
+    <subfield code="a" >Contiene: Cara A: Canciones de meceores ( Laujar) ; Pasodoble de Mecina Alfahar (Valor) ; Serenata de amores (Sorvilán) ; Robao ( Orgiva) ; Mazurca Angelina (Mairena) -- Cara B: Trovo y baile robao ( El Ejido) ; Bolero de Berja ( Berja) ; Pasacalles carnavalito (Yegen)</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Música tradicional.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="2" ind2="4" >
+    <subfield code="a" >Folklore.</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 i 4500</leader>
+  <controlfield tag="001" >C143611838c-7</controlfield>
+  <controlfield tag="005" >20200911:12412800</controlfield>
+  <controlfield tag="008" >200911s1992    sp |||   |     | 0| spa</controlfield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="245" ind1="0" ind2="3" >
+    <subfield code="a" >Trovos hablados. </subfield>
+    <subfield code="n" >II / </subfield>
+    <subfield code="c" >Miguel Candiota, José Sevilla.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >[S.l. : </subfield>
+    <subfield code="b" >s.n., </subfield>
+    <subfield code="c" >199??]</subfield>
+  </datafield>
+  <datafield tag="610" ind1="2" ind2="4" >
+    <subfield code="a" >Festival de Música Tradicional de La Alpujarra-</subfield>
+    <subfield code="x" >Trovos-</subfield>
+    <subfield code="v" >Congresos y asambleas.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Trovos-</subfield>
+    <subfield code="z" >Alpujarra.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Folklore.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" " >
+    <subfield code="a" >Candiota.</subfield>
+  </datafield>
+</record>
+</collection>

@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding='ISO-8859-1'?>
+<!-- generated with absysNET (http://www.baratz.es) -->
+<collection xmlns="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000 a 4500</leader>
+  <controlfield tag="001" >C14506895c-4</controlfield>
+  <controlfield tag="005" >20191217:03283600</controlfield>
+  <controlfield tag="007" >ssobsuauummued</controlfield>
+  <controlfield tag="008" >951108s19891989sp sg            1      d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0006895</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" " >
+    <subfield code="a" >Higuero Rosado, Francisco (</subfield>
+    <subfield code="d" >1933-2016)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >Marcha de procesión de la Virgen de las Angustias [</subfield>
+    <subfield code="h" >Grabación sonora] / </subfield>
+    <subfield code="c" >compuesta por Francisco Higuero Rosado.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Granada : </subfield>
+    <subfield code="b" >CDOMA, </subfield>
+    <subfield code="c" >1989.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 carrete de cinta : 19 cm/s., estereo ; 28 cm.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Estreno en la Basílica el día 15 de septiembre de 1988.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Grabación realizada por RNE.</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Marchas procesionales</subfield>
+  </datafield>
+  <datafield tag="653" ind1=" " ind2=" " >
+    <subfield code="a" >Granada</subfield>
+  </datafield>
+  <datafield tag="653" ind1="0" ind2=" " >
+    <subfield code="a" >Master</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000njm  2200000   4500</leader>
+  <controlfield tag="001" >C14512088c-1</controlfield>
+  <controlfield tag="005" >20191217:03283600</controlfield>
+  <controlfield tag="008" >961205s1900    sp              0    d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0012088</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" " >
+    <subfield code="a" >Higuero Rosado, Francisco (</subfield>
+    <subfield code="d" >1933-2016)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >Marcha de procesion de la virgen de las angustias / </subfield>
+    <subfield code="c" >Higuero Rosado, Francisco.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Granada : </subfield>
+    <subfield code="b" >Cdoma, 1989.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 VOL. vol. ; </subfield>
+    <subfield code="c" >12 cm.</subfield>
+  </datafield>
+  <datafield tag="520" ind1=" " ind2=" " >
+    <subfield code="a" >Carrete de cinta.</subfield>
+  </datafield>
+  <datafield tag="653" ind1=" " ind2=" " >
+    <subfield code="a" >Marchas procesionales</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000ncm  2200000   4500</leader>
+  <controlfield tag="001" >C14526540c-7</controlfield>
+  <controlfield tag="005" >20200617:03314500</controlfield>
+  <controlfield tag="008" >961205s1992    sp fm           0   spa</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0026540</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="047" ind1=" " ind2=" " >
+    <subfield code="a" >fm</subfield>
+  </datafield>
+  <datafield tag="048" ind1=" " ind2=" " >
+    <subfield code="a" >on</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" " >
+    <subfield code="a" >Higuero Rosado, Francisco (</subfield>
+    <subfield code="d" >1933-2016) (</subfield>
+    <subfield code="d" >1933-).</subfield>
+    <subfield code="t" >Maribel Calvin.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >Maribel Calvin [</subfield>
+    <subfield code="h" >Música manuscrita] </subfield>
+    <subfield code="b" >: pasodoble cancion /</subfield>
+    <subfield code="c" >letra S. Pérez Linares ; música, F. Higuero Rosado.</subfield>
+  </datafield>
+  <datafield tag="254" ind1=" " ind2=" " >
+    <subfield code="a" >[Partitura y partes].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Granada : </subfield>
+    <subfield code="b" >[s.n.], </subfield>
+    <subfield code="c" >1992.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 partitura (5 p.) ; </subfield>
+    <subfield code="c" >30 cm + </subfield>
+    <subfield code="e" >28 partes (28 p.)</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Ejemplar duplicado en fotocopias donado por Francisco Higuero Rosado.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Fotocopias.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Incluye el texto.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" " >
+    <subfield code="a" >Contiene: Parte de oboes ; Parte de requintos mi b ; Parte de clarinetes principal si b y 1º ; Parte de clarinetes 2º si b ; Parte de clarinetes 3º si b ; Parte de clarinete bajo si b ; Parte de saxos altos 1º mi b ; Parte de saxos altos 2º mi b ; Parte de saxo tenor 1º si b ; Parte de saxo tenor 2º si b ; Parte de saxo barítono mi b ; Parte de fliscornos 1º si b ; Parte de fliscornos 2º si b ; Parte de trompeta 1º si b ; Parte de trompeta 2º si b ; Parte de trompeta 3 si b ; Parte de trompas 1º fa ; Parte de trompas 2º fa ; Parte de trompas 3º fa ; Parte de bombardinos 1º en do ; Parte de bombardinos 2º en do ; Parte de trombón 1º do ; Parte de trombón 2º do ; Parte de trombón 3º do ; Parte de bajos en do ; Parte de caja ; Parte de bombo y platos ; Parte de flautas</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" " >
+    <subfield code="a" >Oboes, flautas, requintos, clarinetes, saxos, fliscornos, trompeta, trompa, bombardino, trombón, bajo, caja, bombo y platos</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4" >
+    <subfield code="a" >Pasodobles-</subfield>
+    <subfield code="z" >Andalucía-</subfield>
+    <subfield code="v" >Partituras.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="2" ind2="4" >
+    <subfield code="a" >Música española-</subfield>
+    <subfield code="z" >Andalucía-</subfield>
+    <subfield code="y" >S. XX-</subfield>
+    <subfield code="v" >Partituras.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="2" ind2="4" >
+    <subfield code="a" >Conjunto instrumental-</subfield>
+    <subfield code="v" >Partituras.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" " >
+    <subfield code="a" >Pérez Linares, S.</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000ncm  2200000   4500</leader>
+  <controlfield tag="001" >C14526541c-4</controlfield>
+  <controlfield tag="005" >20191217:03283600</controlfield>
+  <controlfield tag="008" >961205s1900    sp              0    d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0026541</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" " >
+    <subfield code="a" >Higuero Rosado, Francisco (</subfield>
+    <subfield code="d" >1933-2016)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >Mujer granadina </subfield>
+    <subfield code="b" >: Pasodoble cancion / </subfield>
+    <subfield code="c" >Higuero Rosado, Francisco.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >[S.l.] : </subfield>
+    <subfield code="b" >[s.n.], </subfield>
+    <subfield code="c" >[s.a.]</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000ncm  2200000   4500</leader>
+  <controlfield tag="001" >C14526542c-1</controlfield>
+  <controlfield tag="005" >20191217:03283600</controlfield>
+  <controlfield tag="008" >961205s1900    sp              0    d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0026542</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" " >
+    <subfield code="a" >Higuero Rosado, Francisco (</subfield>
+    <subfield code="d" >1933-2016)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >Musa de granada </subfield>
+    <subfield code="b" >: Pasodoble cancion / </subfield>
+    <subfield code="c" >Higuero Rosado, Francisco.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >[S.l.] : </subfield>
+    <subfield code="b" >[s.n.], </subfield>
+    <subfield code="c" >[s.a.]</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000ncm  2200000   4500</leader>
+  <controlfield tag="001" >C14526543c-9</controlfield>
+  <controlfield tag="005" >20191217:03283600</controlfield>
+  <controlfield tag="008" >961205s1900    sp              0    d</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0026543</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" " >
+    <subfield code="a" >Higuero Rosado, Francisco (</subfield>
+    <subfield code="d" >1933-2016)</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >Musa de granada </subfield>
+    <subfield code="b" >: Pasodoble / </subfield>
+    <subfield code="c" >Higuero Rosado, Francisco.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >[S.l.] : </subfield>
+    <subfield code="b" >[s.n.], </subfield>
+    <subfield code="c" >[s.a.]</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000ncm  2200000   4500</leader>
+  <controlfield tag="001" >C14526544c-6</controlfield>
+  <controlfield tag="005" >20200617:03314500</controlfield>
+  <controlfield tag="008" >961205s1988    sp hy           0   spað</controlfield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0026544</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="047" ind1=" " ind2=" " >
+    <subfield code="a" >hy</subfield>
+  </datafield>
+  <datafield tag="048" ind1=" " ind2=" " >
+    <subfield code="a" >od</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" " >
+    <subfield code="a" >Higuero Rosado, Francisco (</subfield>
+    <subfield code="d" >1933-2016) (</subfield>
+    <subfield code="d" >1933-).</subfield>
+    <subfield code="t" >Nuestra Señora de las Angustias.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >Nuestra señora de las angustias [</subfield>
+    <subfield code="h" >Música manuscrita] </subfield>
+    <subfield code="b" >: marcha de procesión / </subfield>
+    <subfield code="c" >Francisco Higuero Rosado.</subfield>
+  </datafield>
+  <datafield tag="254" ind1=" " ind2=" " >
+    <subfield code="a" >[Guión en do y partes].</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >Granada : </subfield>
+    <subfield code="b" >[s.n.], </subfield>
+    <subfield code="c" >1988.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >1 guión (4 p.) ; </subfield>
+    <subfield code="c" >21 x 30 cm + </subfield>
+    <subfield code="e" >29 partes.</subfield>
+  </datafield>
+  <datafield tag="500" ind1=" " ind2=" " >
+    <subfield code="a" >Ejemplar duplicado en fotocopias donado por Francisco Higuero Rosado.</subfield>
+  </datafield>
+  <datafield tag="505" ind1="0" ind2=" " >
+    <subfield code="a" >Contiene: Guión en do y Parte de bombo y platos ; Parte de requinto mi b ; Parte de clarinetes principal si b ; Parte de clarinetes 1º si b ; Parte de clarinetes 2º si b ; Parte de clarinetes 3º si b ; Parte de clarinete bajo ; Parte de saxo alto 1º mi b ; Parte de saxo barítono en mi b ; Parte de saxo alto 2º mi b ; Parte de saxo tenor si b 1º ; Parte de saxo tenor si b 2º ; Parte de fagot ; Parte de fliscornos 1º si b ; Parte de fliscornos 2º si b ; Parte de trompetas 1º si b ; Parte de  trompetas 2º si b ; Parte de trompetas 3º si b ; Parte de bombardinos 1º en do y 2º ; Parte de trompa 1º en fa ; Parte de trompa 2º en fa ; Parte de trompa 3º en fa ; Parte de trombón 1º ; Parte de trombón 2º ; Parte de trombón 3º ; Parte de caja ; Parte de flautas en do ; Parte de bajos en do ; Parte de oboe</subfield>
+  </datafield>
+  <datafield tag="594" ind1=" " ind2=" " >
+    <subfield code="a" >Bombo, caja, platos, requinto, clarinetes, saxo, fagot, fliscorno, trompeta, bombardino, trompa, trombón, flautas, bajos, oboe</subfield>
+  </datafield>
+  <datafield tag="650" ind1="1" ind2="4" >
+    <subfield code="a" >Himnos religiosos-</subfield>
+    <subfield code="v" >Partituras.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="2" ind2="4" >
+    <subfield code="a" >Música de Semana Santa-</subfield>
+    <subfield code="v" >Partituras.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="2" ind2="4" >
+    <subfield code="a" >Música española-</subfield>
+    <subfield code="z" >Andalucía-</subfield>
+    <subfield code="y" >S. XX-</subfield>
+    <subfield code="v" >Partituras.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="2" ind2="4" >
+    <subfield code="a" >Conjunto instrumental-</subfield>
+    <subfield code="v" >Partituras.</subfield>
+  </datafield>
+</record>
+
+<record type="Bibliographic" >
+  <leader>00000ncm  2200000 i 4500</leader>
+  <controlfield tag="001" >C14546382c-3</controlfield>
+  <controlfield tag="005" >20191217:03283600</controlfield>
+  <controlfield tag="008" >060315 2003                        spa</controlfield>
+  <datafield tag="017" ind1=" " ind2=" " >
+    <subfield code="a" >J 630-2003</subfield>
+  </datafield>
+  <datafield tag="035" ind1=" " ind2=" " >
+    <subfield code="a" >3104 0046382</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" " >
+    <subfield code="a" >3104</subfield>
+  </datafield>
+  <datafield tag="048" ind1=" " ind2=" " >
+    <subfield code="a" >od</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" " >
+    <subfield code="a" >Higuero Rosado, Francisco (</subfield>
+    <subfield code="d" >1933-2016)</subfield>
+  </datafield>
+  <datafield tag="240" ind1="1" ind2="0" >
+    <subfield code="a" >Fandi, Fandila</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0" >
+    <subfield code="a" >Fandi, Fandila [</subfield>
+    <subfield code="h" >Música impresa] </subfield>
+    <subfield code="b" >: Pasodoble torero /</subfield>
+    <subfield code="c" >música, Francisco Higuero Rosado ; letra, Guillermo Sena Medina ; fotografías, Carlos Abellán.</subfield>
+  </datafield>
+  <datafield tag="254" ind1=" " ind2=" " >
+    <subfield code="a" >Partitura y partes.</subfield>
+  </datafield>
+  <datafield tag="260" ind1=" " ind2=" " >
+    <subfield code="a" >[s.l.] : </subfield>
+    <subfield code="b" >[s.n.], </subfield>
+    <subfield code="c" >D.L. 2003 (</subfield>
+    <subfield code="e" >La Carolina (Jaén) :</subfield>
+    <subfield code="f" >Gráficas Ramírez)</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" " >
+    <subfield code="a" >VIII p., 1 guión (4 p.) ; </subfield>
+    <subfield code="c" >21 cm. + </subfield>
+    <subfield code="e" >26 partes.</subfield>
+  </datafield>
+  <datafield tag="541" ind1=" " ind2=" " >
+    <subfield code="a" >Donado por: Autor de la música.</subfield>
+  </datafield>
+  <datafield tag="650" ind1=" " ind2="4" >
+    <subfield code="a" >Pasodobles-</subfield>
+    <subfield code="v" >Partituras.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" " >
+    <subfield code="a" >Sena Medina, Guillermo (</subfield>
+    <subfield code="d" >1944-)</subfield>
+  </datafield>
+</record>
+</collection>
